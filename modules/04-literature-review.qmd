@@ -1,0 +1,168 @@
+---
+title: "Module 4: Literature Review Strategies"
+subtitle: "Design effective search strategies and navigate academic databases"
+---
+
+::: {.learning-objectives}
+#### 🎯 Learning Objectives
+
+After completing this module, you will be able to:
+
+- Distinguish between different types of literature reviews
+- Design an effective, reproducible search strategy
+- Use UC Library Search and discipline-specific databases effectively
+- Write an annotated bibliography
+- Select the most appropriate type of review for your research question
+:::
+
+---
+
+## Overview
+
+This module introduces the different types of reviews you may encounter in academic research. It guides you through designing an effective literature review search strategy and highlights UC Riverside Library resources that support you throughout the process.
+
+> ✅ Complete the assignments at the end of this module to earn credit toward your certificate!
+
+---
+
+## Types of Reviews
+
+Different research questions call for different review methodologies. Understanding which type fits your project is essential before you begin searching.
+
+### Comparison of Common Review Types
+
+| Review Type | Purpose | Scope | Typical Use |
+|---|---|---|---|
+| **Narrative Review** | Summarize existing literature on a topic | Selective | Background chapters, introductions |
+| **Systematic Review** | Comprehensively synthesize evidence on a specific question | Exhaustive | Clinical practice, policy decisions |
+| **Scoping Review** | Map the breadth of literature on a topic | Broad | Identifying gaps, feasibility |
+| **Meta-Analysis** | Statistically combine quantitative results | Selected studies | Estimating effect sizes |
+| **Integrative Review** | Synthesize diverse methodologies | Broad | Theory development |
+| **Rapid Review** | Accelerated systematic review | Selective | Time-sensitive decisions |
+
+::: {.callout-tip}
+Not sure which type fits your research? Consult your **subject librarian** or your **advisor** — they can help you match your research question to the appropriate methodology.
+:::
+
+---
+
+## Designing Your Search Strategy
+
+A good search strategy is **systematic**, **reproducible**, and **documented**. Follow these steps:
+
+### Step 1: Define Your Research Question
+
+Use a framework like **PICO** (Population, Intervention, Comparison, Outcome) for clinical research, or **PCC** (Population, Concept, Context) for scoping reviews.
+
+### Step 2: Identify Key Concepts
+
+Break your question into 2–4 core concepts. For each concept, brainstorm:
+
+- Synonyms and alternate spellings
+- Broader and narrower terms
+- Abbreviations and acronyms
+
+### Step 3: Choose Your Databases
+
+Don't search only Google Scholar! Use databases appropriate to your discipline:
+
+| Discipline | Recommended Databases |
+|---|---|
+| Sciences & Medicine | PubMed, Web of Science, Scopus |
+| Social Sciences | PsycINFO, Sociological Abstracts |
+| Humanities | MLA International Bibliography, JSTOR |
+| Engineering | Compendex, IEEE Xplore |
+| All disciplines | UC Library Search, Scopus |
+
+### Step 4: Use Boolean Operators
+
+Combine search terms with:
+
+- **AND** — narrows results (all terms must appear)
+- **OR** — broadens results (any term can appear)
+- **NOT** — excludes terms
+- **Quotation marks** — exact phrase search
+- **Asterisk \*** — truncation (e.g., `data*` finds data, dataset, databases)
+
+### Step 5: Document Everything
+
+Record every search: database, date, terms used, and number of results. This is required for systematic and scoping reviews, and good practice for any review.
+
+---
+
+## Writing an Annotated Bibliography
+
+An **annotated bibliography** combines a citation with a brief summary and evaluation of each source. It is useful for:
+
+- Tracking what you've read and why it's relevant
+- Preparing for the literature review chapter of your thesis
+- Demonstrating research depth in grant proposals
+
+### What Each Annotation Includes
+
+1. Full citation (in your discipline's style)
+2. Summary of the work's main argument or findings (2–3 sentences)
+3. Evaluation of its relevance, methodology, or limitations (1–2 sentences)
+
+---
+
+## Resources
+
+::: {.resource-list}
+- [**Guide: Conducting a Literature Review**](https://guides.lib.ucr.edu/litreview) — UCR Library comprehensive guide
+  [Guide]{.resource-type}
+
+- [**Guide: Writing an Annotated Bibliography**](https://guides.lib.ucr.edu/c.php?g=171083&p=1126832) — Format and examples
+  [Guide]{.resource-type}
+
+- [**Video Tutorial: How to Use UC Library Search**](https://www.youtube.com/watch?v=kZBpR-ogTZQ)
+  [Video]{.resource-type .video}
+
+- [**Video Tutorial: Search Strategies for Using Library Databases**](https://www.youtube.com/watch?v=UA3h_rFFqB8)
+  [Video]{.resource-type .video}
+:::
+
+---
+
+## Assignments
+
+::: {.callout-important}
+### 📋 Assignment 1: Literature Review Strategies Quiz
+
+Complete the knowledge check quiz in the [Knowledge Checks](../knowledge-checks.qmd) page. The quiz is also available on Canvas for credit.
+:::
+
+::: {.callout-important}
+### 📋 Assignment 2: What Types of Review(s) Would Work Best for Your Research?
+
+Write a **short reflection (1 paragraph)** explaining:
+
+1. Your research question or area
+2. Which type(s) of literature review would be most appropriate and why
+3. Which databases you plan to search
+
+**Submission:** Submit your reflection to the Canvas course platform.
+
+*Both assignments are required for the certificate.*
+:::
+
+---
+
+## Get Help
+
+- 📧 **Contact your subject librarian** in [Teaching and Learning Services](https://library.ucr.edu/about/directory/staff) for subject-specific literature review support
+- 🔗 [Find Your Subject Librarian](https://library.ucr.edu/about/directory/staff)
+
+---
+
+```{=html}
+<div class="next-module-banner">
+  <a href="05-publish-share.qmd">
+    <div>
+      <div class="next-label">Up Next · Module 5</div>
+      <div class="next-title">Publish &amp; Share Your Research</div>
+    </div>
+    <div class="next-arrow">→</div>
+  </a>
+</div>
+```

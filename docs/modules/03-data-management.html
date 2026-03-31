@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Module 3: Data Management – Graduate Research Core Competencies Certificate</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/certificate-thumbnail.jpg" rel="icon" type="image/jpeg">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-37506186355d0fa0d9f00577c64c802b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&amp;family=Merriweather:wght@400;700&amp;display=swap" rel="stylesheet">
+
+
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/certificate-thumbnail.jpg" alt="GRCC Certificate" class="navbar-logo light-content">
+    <img src="../images/certificate-thumbnail.jpg" alt="GRCC Certificate" class="navbar-logo dark-content">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-modules" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Modules</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-modules">    
+        <li>
+    <a class="dropdown-item" href="../modules/01-citation-management.html">
+ <span class="dropdown-text">1 · Citation Management</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/02-scholarly-communication.html">
+ <span class="dropdown-text">2 · Scholarly Communication</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/03-data-management.html">
+ <span class="dropdown-text">3 · Data Management</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/04-literature-review.html">
+ <span class="dropdown-text">4 · Literature Review Strategies</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/05-publish-share.html">
+ <span class="dropdown-text">5 · Publish &amp; Share Your Research</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/06-graduate-academic-affairs.html">
+ <span class="dropdown-text">6 · Graduate Academic Affairs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/07-capstone.html">
+ <span class="dropdown-text">7 · Capstone: Research Plan</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../knowledge-checks.html"> 
+<span class="menu-text">Knowledge Checks</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/jinghanlib/grcc-certificate"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#what-is-a-data-management-plan" id="toc-what-is-a-data-management-plan" class="nav-link" data-scroll-target="#what-is-a-data-management-plan">What Is a Data Management Plan?</a></li>
+  <li><a href="#dmptool" id="toc-dmptool" class="nav-link" data-scroll-target="#dmptool">DMPTool</a></li>
+  <li><a href="#data-organization-best-practices" id="toc-data-organization-best-practices" class="nav-link" data-scroll-target="#data-organization-best-practices">Data Organization Best Practices</a>
+  <ul class="collapse">
+  <li><a href="#file-naming-conventions" id="toc-file-naming-conventions" class="nav-link" data-scroll-target="#file-naming-conventions">File Naming Conventions</a></li>
+  <li><a href="#folder-structure" id="toc-folder-structure" class="nav-link" data-scroll-target="#folder-structure">Folder Structure</a></li>
+  <li><a href="#documentation-files" id="toc-documentation-files" class="nav-link" data-scroll-target="#documentation-files">Documentation Files</a></li>
+  </ul></li>
+  <li><a href="#file-formats-open-vs.-proprietary" id="toc-file-formats-open-vs.-proprietary" class="nav-link" data-scroll-target="#file-formats-open-vs.-proprietary">File Formats: Open vs.&nbsp;Proprietary</a></li>
+  <li><a href="#data-publishing-with-dryad" id="toc-data-publishing-with-dryad" class="nav-link" data-scroll-target="#data-publishing-with-dryad">Data Publishing with Dryad</a>
+  <ul class="collapse">
+  <li><a href="#steps-to-publish-data-on-dryad" id="toc-steps-to-publish-data-on-dryad" class="nav-link" data-scroll-target="#steps-to-publish-data-on-dryad">Steps to Publish Data on Dryad</a></li>
+  </ul></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment">Assignment</a></li>
+  <li><a href="#get-help" id="toc-get-help" class="nav-link" data-scroll-target="#get-help">Get Help</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Module 3: Data Management</h1>
+<p class="subtitle lead">Plan, organize, and publish your research data</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="learning-objectives" class="level4 learning-objectives">
+<h4 class="anchored" data-anchor-id="learning-objectives">🎯 Learning Objectives</h4>
+<p>After completing this module, you will be able to:</p>
+<ul>
+<li>Explain what a Data Management Plan (DMP) is and why it is required</li>
+<li>Use DMPTool to write a DMP for your research</li>
+<li>Apply best practices for organizing, naming, and documenting data files</li>
+<li>Understand the difference between open and proprietary file formats</li>
+<li>Publish your data with Dryad and increase your research impact</li>
+</ul>
+</section>
+<hr>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This module introduces <strong>data management plans</strong> — an integral component of your research — and <strong>data publishing</strong>. A DMP is required for IRB applications and grant applications. Publishing your data in an open access repository increases your publication count and supports data reuse and research validation.</p>
+<blockquote class="blockquote">
+<p>✅ Complete the assignment at the end of this module to earn credit toward your certificate!</p>
+</blockquote>
+<hr>
+</section>
+<section id="what-is-a-data-management-plan" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-a-data-management-plan">What Is a Data Management Plan?</h2>
+<p>A <strong>Data Management Plan (DMP)</strong> is a formal document that describes:</p>
+<ul>
+<li>What data you will collect or generate</li>
+<li>How the data will be organized, stored, and backed up</li>
+<li>What formats and standards you will use</li>
+<li>Who will have access to the data during and after the project</li>
+<li>How and where the data will be shared or preserved after the project ends</li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>When Are DMPs Required?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>IRB (Institutional Review Board) applications</strong> at UCR</li>
+<li><strong>Federal grant applications</strong> (NSF, NIH, NEH, and most other funders)</li>
+<li>Many journal and publisher submission requirements</li>
+</ul>
+</div>
+</div>
+<hr>
+</section>
+<section id="dmptool" class="level2">
+<h2 class="anchored" data-anchor-id="dmptool">DMPTool</h2>
+<p><a href="https://dmptool.org"><strong>DMPTool</strong></a> is a free online tool that helps researchers write data management plans. It provides:</p>
+<ul>
+<li>Funder-specific DMP templates (NSF, NIH, NEH, etc.)</li>
+<li>Guidance text for each section</li>
+<li>Collaboration features to share drafts with your advisor</li>
+<li>Example DMPs from other researchers</li>
+</ul>
+<p><strong><a href="https://guides.lib.ucr.edu/c.php?g=291771&amp;p=1943633">UCR Data Management Plan Guide</a></strong> — UCR Library’s guide to writing your DMP.</p>
+<hr>
+</section>
+<section id="data-organization-best-practices" class="level2">
+<h2 class="anchored" data-anchor-id="data-organization-best-practices">Data Organization Best Practices</h2>
+<section id="file-naming-conventions" class="level3">
+<h3 class="anchored" data-anchor-id="file-naming-conventions">File Naming Conventions</h3>
+<p>Use consistent, descriptive file names that include:</p>
+<ul>
+<li>Project identifier</li>
+<li>Date (YYYY-MM-DD format)</li>
+<li>Version number</li>
+</ul>
+<p><strong>Example:</strong> <code>smith-dissertation-survey-data-2025-01-15-v2.csv</code></p>
+</section>
+<section id="folder-structure" class="level3">
+<h3 class="anchored" data-anchor-id="folder-structure">Folder Structure</h3>
+<p>Organize files into logical folders:</p>
+<pre><code>project/
+  ├── raw-data/          # Never modify original data
+  ├── processed-data/    # Cleaned, analysis-ready data
+  ├── scripts/           # Analysis code
+  ├── outputs/           # Figures, tables, reports
+  └── docs/              # README, codebook, DMP</code></pre>
+</section>
+<section id="documentation-files" class="level3">
+<h3 class="anchored" data-anchor-id="documentation-files">Documentation Files</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Document</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>README</strong></td>
+<td>High-level overview of the project and instructions for using the files</td>
+</tr>
+<tr class="even">
+<td><strong>Codebook</strong></td>
+<td>Defines specific variables, units, and labels within the dataset</td>
+</tr>
+<tr class="odd">
+<td><strong>DMP</strong></td>
+<td>Overall data management strategy for the project lifecycle</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+</section>
+<section id="file-formats-open-vs.-proprietary" class="level2">
+<h2 class="anchored" data-anchor-id="file-formats-open-vs.-proprietary">File Formats: Open vs.&nbsp;Proprietary</h2>
+<p>For long-term data sharing and archiving, <strong>open file formats</strong> are strongly preferred:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Data Type</th>
+<th>Open Format (✅ Preferred)</th>
+<th>Proprietary Format</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tabular data</td>
+<td><code>.csv</code>, <code>.tsv</code></td>
+<td><code>.xlsx</code> (Excel)</td>
+</tr>
+<tr class="even">
+<td>Text</td>
+<td><code>.txt</code>, <code>.md</code>, <code>.pdf/a</code></td>
+<td><code>.docx</code> (Word)</td>
+</tr>
+<tr class="odd">
+<td>Images</td>
+<td><code>.tiff</code>, <code>.png</code></td>
+<td><code>.psd</code> (Photoshop)</td>
+</tr>
+<tr class="even">
+<td>Audio</td>
+<td><code>.wav</code>, <code>.flac</code></td>
+<td><code>.mp3</code></td>
+</tr>
+<tr class="odd">
+<td>Geospatial</td>
+<td><code>.geojson</code>, <code>.shp</code></td>
+<td><code>.mdb</code> (ArcGIS)</td>
+</tr>
+</tbody>
+</table>
+<p>Open formats can be read by any software now and in the future — proprietary formats may become unreadable if the software is discontinued.</p>
+<hr>
+</section>
+<section id="data-publishing-with-dryad" class="level2">
+<h2 class="anchored" data-anchor-id="data-publishing-with-dryad">Data Publishing with Dryad</h2>
+<p><a href="https://datadryad.org"><strong>Dryad</strong></a> is a curated, open access data repository that makes research data freely available. Benefits include:</p>
+<ul>
+<li>Assigns a <strong>DOI</strong> to your dataset — making it citable</li>
+<li>Increases your <strong>citation count</strong> (data citations are recognized)</li>
+<li>Facilitates <strong>reproducibility</strong> and research validation</li>
+<li>Many journals require or recommend Dryad for supplementary data</li>
+</ul>
+<section id="steps-to-publish-data-on-dryad" class="level3">
+<h3 class="anchored" data-anchor-id="steps-to-publish-data-on-dryad">Steps to Publish Data on Dryad</h3>
+<ol type="1">
+<li>Organize and document your data (README + codebook)</li>
+<li>Convert to open file formats where possible</li>
+<li>Create a Dryad account (free for UCR affiliates)</li>
+<li>Upload and describe your dataset</li>
+<li>Receive a DOI and share it in your publications</li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<div class="resource-list">
+<ul>
+<li><p><a href="https://guides.lib.ucr.edu/c.php?g=291771&amp;p=1943633"><strong>UCR Data Management Plan Guide</strong></a> — UCR Library’s guide to writing your DMP <span class="resource-type">Guide</span></p></li>
+<li><p><a href="https://datadryad.org/help"><strong>Slides: Data Publishing with Dryad</strong></a> — Dryad’s official documentation and guides <span class="resource-type slides">Slides</span></p></li>
+<li><p><a href="https://datadryad.org/help"><strong>Dryad Documentation &amp; Guides</strong></a> — Getting started with data deposit <span class="resource-type">Guide</span></p></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="assignment" class="level2">
+<h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>📋 Assignment: What Is Your Data Organization Plan?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Write a <strong>brief data organization plan</strong> (1–2 paragraphs) describing:</p>
+<ol type="1">
+<li>What types of data your research involves</li>
+<li>How you will name and organize your files</li>
+<li>What file formats you will use and why</li>
+<li>Where you will back up your data</li>
+</ol>
+<p><strong>Submission:</strong> Submit your plan to the Canvas course platform.</p>
+<p><em>This assignment is required for the certificate.</em></p>
+</div>
+</div>
+<hr>
+</section>
+<section id="get-help" class="level2">
+<h2 class="anchored" data-anchor-id="get-help">Get Help</h2>
+<ul>
+<li>📧 <strong>Research Data Scientist:</strong> Dr.&nbsp;Barbara Martinez Neda · <a href="mailto:barbara.martinezneda@ucr.edu">barbara.martinezneda@ucr.edu</a></li>
+<li>🔗 <a href="https://library.ucr.edu/research-support/data-services">UCR Library Data Services</a></li>
+<li>🎓 <a href="https://gradquant.ucr.edu/">GradQuant</a> — data workshops and consultations</li>
+<li>🗓️ UCR Library offers <strong>Data Analysis, Visualization, and Data Management workshops</strong> — <a href="https://library.ucr.edu">library.ucr.edu</a></li>
+</ul>
+<hr>
+<div class="next-module-banner">
+  <a href="../modules/04-literature-review.html">
+    <div>
+      <div class="next-label">Up Next · Module 4</div>
+      <div class="next-title">Literature Review Strategies</div>
+    </div>
+    <div class="next-arrow">→</div>
+  </a>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© UC Riverside Library · Graduate Research Core Competencies Certificate</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/jinghanlib/grcc-certificate">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

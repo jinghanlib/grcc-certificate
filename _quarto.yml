@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Graduate Research Core Competencies Certificate"
+  description: "A self-paced certificate program for UC Riverside graduate students"
+  favicon: images/certificate-thumbnail.jpg
+  navbar:
+    logo: images/certificate-thumbnail.jpg
+    logo-alt: "GRCC Certificate"
+    title: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Modules"
+        menu:
+          - text: "1 · Citation Management"
+            href: modules/01-citation-management.qmd
+          - text: "2 · Scholarly Communication"
+            href: modules/02-scholarly-communication.qmd
+          - text: "3 · Data Management"
+            href: modules/03-data-management.qmd
+          - text: "4 · Literature Review Strategies"
+            href: modules/04-literature-review.qmd
+          - text: "5 · Publish & Share Your Research"
+            href: modules/05-publish-share.qmd
+          - text: "6 · Graduate Academic Affairs"
+            href: modules/06-graduate-academic-affairs.qmd
+          - text: "7 · Capstone: Research Plan"
+            href: modules/07-capstone.qmd
+      - text: "Knowledge Checks"
+        href: knowledge-checks.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/jinghanlib/grcc-certificate
+        aria-label: GitHub
+
+  sidebar: false
+
+  page-footer:
+    left: "© UC Riverside Library · Graduate Research Core Competencies Certificate"
+    right:
+      - icon: github
+        href: https://github.com/jinghanlib/grcc-certificate
+
+format:
+  html:
+    theme:
+      light: [flatly, assets/custom.scss]
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    code-copy: true
+    link-external-newwindow: true
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">

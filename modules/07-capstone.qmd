@@ -1,0 +1,166 @@
+---
+title: "Module 7 (Capstone): Research Plan"
+subtitle: "Bring it all together — your pathway to the certificate"
+---
+
+::: {.learning-objectives}
+#### 🎯 Learning Objectives
+
+After completing this module, you will be able to:
+
+- Explain what a research plan is and why every researcher needs one
+- Identify the key components of a graduate research plan
+- Draft a comprehensive research plan that integrates competencies from all modules
+- Submit your capstone to earn the Graduate Research Core Competencies Certificate
+:::
+
+---
+
+::: {.callout-note}
+### 🎓 This is the Capstone Module
+
+Completing and submitting this Research Plan is the **final step** to earning your Graduate Research Core Competencies Certificate. Make sure you have completed all prior modules before submitting.
+:::
+
+---
+
+## What Is a Research Plan?
+
+A **research plan** is a structured document that maps out your research goals, methods, and resources. It serves multiple purposes:
+
+- **For you:** Clarifies your thinking, identifies gaps, and keeps your project on track
+- **For your committee:** Shows your readiness to conduct independent research
+- **For grant applications:** Many funders require a research plan or project narrative
+- **For your career:** Demonstrates scholarly organization and planning skills
+
+---
+
+## Key Components of a Graduate Research Plan
+
+A strong research plan typically includes:
+
+### 1. Research Overview
+
+- Your research question or thesis statement
+- Significance and broader impact of your work
+- How it fits within your field's existing literature
+
+### 2. Literature Review Strategy
+
+- Databases and search terms you will use
+- Type of review (systematic, narrative, scoping, etc.)
+- Timeline for completing your literature review
+
+### 3. Methodology
+
+- Data collection methods (surveys, experiments, archival research, interviews, etc.)
+- Data analysis approach
+- Ethical considerations (IRB status if applicable)
+
+### 4. Data Management
+
+- Types of data you will generate or collect
+- File organization and naming conventions
+- Storage, backup, and sharing plan
+- Data Management Plan (DMP) status
+
+### 5. Citation and Reference Management
+
+- Citation management tool you are using
+- Citation style for your discipline
+
+### 6. Publication and Dissemination Plan
+
+- Target journals or venues for publishing your research
+- Plans for sharing datasets or supplementary materials
+- Open access strategy
+- ORCID iD integration
+
+### 7. Timeline
+
+- Key milestones (proposal defense, IRB approval, data collection, writing, submission)
+- Estimated completion dates
+
+---
+
+## Writing Tips
+
+::: {.callout-tip}
+### Your Research Plan Is a Living Document
+
+It will evolve as your research progresses. What matters most is showing that you've thought carefully about each component.
+:::
+
+- Be **specific**: Vague goals are hard to execute. "I will search PubMed and Scopus using the terms X, Y, Z" is better than "I will do a literature review."
+- Be **realistic**: Your timeline should account for learning curves, advisor feedback, and unexpected delays.
+- **Connect the parts**: Show how your citation management, data management, and dissemination plans support each other.
+- **Revise based on feedback**: Share drafts with your advisor, subject librarian, and peers.
+
+---
+
+## Writing Support Resources
+
+Graduate Division has recordings to help with your writing:
+
+::: {.resource-list}
+- [**Flexible Writing Practices**](https://ucr.yuja.com/V/Video?v=9651248&node=42604592&a=5635964&autoplay=1) *(UCR credential required)*
+  [Video]{.resource-type .video}
+
+- [**How to Write Concisely**](https://ucr.yuja.com/V/Video?v=12213934&node=53414012&a=73574019) *(UCR credential required)*
+  [Video]{.resource-type .video}
+:::
+
+Also refer to the **Get Help** section under each module for specific guidance on each section of your research plan.
+
+---
+
+## Certificate Checklist
+
+Before submitting your capstone, confirm you have completed all of the following:
+
+- [ ] Module 1: Citation Management — screenshot assignment submitted on Canvas
+- [ ] Module 2: Scholarly Communication — ORCID assignment submitted on Canvas
+- [ ] Module 3: Data Management — data organization plan submitted on Canvas
+- [ ] Module 4: Literature Review Strategies — quiz + reflection submitted on Canvas
+- [ ] Module 5: Publish & Share — quiz submitted on Canvas
+- [ ] Module 6: Graduate Academic Affairs — knowledge check quiz submitted on Canvas
+- [ ] Module 7 (Capstone): Research Plan — **submit now!**
+
+---
+
+## Capstone Assignment
+
+::: {.callout-important}
+### 📋 Capstone: Research Plan
+
+Submit a **research plan (approximately 3–5 pages)** addressing the components listed above. Your plan should demonstrate that you have engaged with the competencies covered in all six prior modules:
+
+- Citation management strategy (Module 1)
+- ORCID and scholarly communication plan (Module 2)
+- Data management plan summary (Module 3)
+- Literature review strategy (Module 4)
+- Publication and dissemination plan (Module 5)
+- Awareness of formatting and graduation requirements (Module 6)
+
+**Submit your research plan to your instructor on Canvas to receive your official certificate via Accredible.**
+
+*Completion of all prior modules and assignments is required before submitting the capstone.*
+:::
+
+---
+
+## Get Help
+
+- 🔗 Refer to the **Get Help** section under each module for specific research plan support by section
+- 📧 **Contact your subject librarians** for literature review support: [Teaching and Learning Services](https://library.ucr.edu/about/directory/staff)
+- 📧 **Digital Scholarship Librarian:** Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+- 📧 **Research Data Scientist:** Dr. Barbara Martinez Neda · [barbara.martinezneda@ucr.edu](mailto:barbara.martinezneda@ucr.edu)
+- 🔗 [UCR Graduate Division Filing Resources](https://graduate.ucr.edu/filing-resources)
+
+---
+
+::: {.callout-note}
+### 🎉 Congratulations!
+
+Once your capstone is approved, you will receive your **Graduate Research Core Competencies Certificate** via Accredible. This digital credential can be shared on LinkedIn, your academic CV, and your ORCID profile.
+:::

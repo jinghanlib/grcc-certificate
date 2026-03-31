@@ -1,0 +1,147 @@
+---
+title: "Module 1: Citation Management"
+subtitle: "Organize your references and build your research identity"
+---
+
+::: {.learning-objectives}
+#### 🎯 Learning Objectives
+
+After completing this module, you will be able to:
+
+- Set up and use a citation management tool (Zotero or Paperpile)
+- Organize and sync your reference library
+- Generate citations and bibliographies in any citation style
+- Understand what a Biosketch is and how to create one for grant applications
+:::
+
+---
+
+## Overview
+
+This module introduces citation management and two free tools: **Zotero** and **Paperpile**. It also covers the **Biosketch**, a document required for grant applications.
+
+> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
+
+---
+
+## Why Citation Management Matters
+
+Manually tracking hundreds of references is error-prone and time-consuming. Citation management software lets you:
+
+- Capture references from databases, websites, and PDFs in one click
+- Auto-generate citations and bibliographies in any style (APA, MLA, Chicago, etc.)
+- Sync your library across devices and collaborate with lab members
+- Attach and annotate PDFs alongside your references
+
+---
+
+## Zotero vs. Paperpile
+
+### Choosing the Right Tool
+
+Both tools are free for students and cover the same core workflow. The main difference is where you write:
+
+| Feature | Zotero | Paperpile |
+|---|---|---|
+| Price | Free (6 GB storage) | Free for students |
+| Best for | Word, LibreOffice, standalone use | Google Docs users |
+| Browser extension | ✅ | ✅ |
+| Collaboration | ✅ Group libraries | ✅ Shared folders |
+| Mobile app | ✅ | ✅ |
+| PDF annotation | ✅ Built-in | ✅ Built-in |
+
+### Zotero
+
+- Download at [zotero.org](https://www.zotero.org/) — free, open source
+- Install the **Zotero Connector** browser extension to save references in one click
+- Integrates with Microsoft Word, LibreOffice, and Google Docs
+- Sync your library across devices with a free Zotero account
+
+### Paperpile
+
+- Works entirely in the **Google Docs** environment — no separate app needed
+- Install the browser extension and Google Docs add-on
+- Best choice if your entire workflow lives in Google Drive
+
+---
+
+## Biosketches for Grant Applications
+
+A **biosketch** is a short professional biography (up to 5 pages) required by federal funders (NIH, NSF) as part of grant applications. It summarizes your education, positions, contributions to science, and research support.
+
+- NIH and NSF each have slightly different biosketch formats
+- The UCR Library guide walks you through each section step by step
+- Creating your biosketch early — before grant deadlines — saves significant time
+
+---
+
+## Resources
+
+### Guides & Overviews
+
+::: {.resource-list}
+- [**Guide: Citation Management Overview**](https://guides.lib.ucr.edu/referencemanagement) — UCR Library guide covering all citation tools available to students
+  [Guide]{.resource-type}
+
+- [**Guide: How to Cite Sources**](https://guides.lib.ucr.edu/citing) — Style guides for APA, MLA, Chicago, and discipline-specific formats
+  [Guide]{.resource-type}
+
+- [**Guide: Creating Your Biosketch**](https://guides.lib.ucr.edu/c.php?g=962000&p=7732817) — Step-by-step instructions for NIH and NSF biosketches
+  [Guide]{.resource-type}
+:::
+
+### Zotero
+
+::: {.resource-list}
+- [**Slides: Citation Management with Zotero**](https://docs.google.com/presentation/d/1Mxk8b7uPGbGAX7C_tOtYza4__-dZZ34J-IpDhBBaH_Q/edit?usp=sharing) — Presentation slides from UCR Library
+  [Slides]{.resource-type .slides}
+
+- [**Recording: Citation Series — Zotero & Paperpile**](https://www.youtube.com/watch?v=odYFJRKqEdM&list=PLaDWxNwvAu5bQrpeV7ORCiw6OY1a215Hm&index=1) — Video workshop recording
+  [Video]{.resource-type .video}
+:::
+
+### Paperpile
+
+::: {.resource-list}
+- [**Slides: Paperpile — Citation Management for Google Docs**](https://docs.google.com/presentation/d/1fLMz5rMfYl_rVUcaZI3bCevpD6acj3Lh/edit?usp=sharing&rtpof=true&sd=true) — Presentation slides from UCR Library
+  [Slides]{.resource-type .slides}
+:::
+
+---
+
+## Assignment
+
+::: {.callout-important}
+### 📋 Assignment: Screenshot of Your Citation Management Tool
+
+Set up a citation management tool (Zotero or Paperpile) and submit a screenshot showing:
+
+1. Your citation library with at least **3 references** imported
+2. Evidence of browser extension installation OR a citation exported to a document
+
+**Submission:** Upload your screenshot to the Canvas course platform.
+
+*This assignment is required for the certificate.*
+:::
+
+---
+
+## Get Help
+
+- 🗓️ UCR Library offers **synchronous Zotero workshops** — check [library.ucr.edu](https://library.ucr.edu) for upcoming sessions
+- 📧 **STEM Teaching Librarian:** Mary-Michelle Moore · [marymichelle.moore@ucr.edu](mailto:marymichelle.moore@ucr.edu)
+- 📧 **LibSTEM Team:** [libstemteam@ucr.edu](mailto:libstemteam@ucr.edu)
+
+---
+
+```{=html}
+<div class="next-module-banner">
+  <a href="02-scholarly-communication.qmd">
+    <div>
+      <div class="next-label">Up Next · Module 2</div>
+      <div class="next-title">Scholarly Communication</div>
+    </div>
+    <div class="next-arrow">→</div>
+  </a>
+</div>
+```

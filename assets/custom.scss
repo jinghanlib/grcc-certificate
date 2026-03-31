@@ -1,0 +1,516 @@
+/*-- scss:defaults --*/
+$primary: #003DA5;        // UCR Blue
+$secondary: #FFB81C;      // UCR Gold
+$success: #2e7d32;
+$body-font-family: 'Inter', sans-serif;
+$headings-font-family: 'Merriweather', serif;
+$font-size-base: 1rem;
+$body-bg: #f4f6fb;
+$body-color: #1c1f26;
+$link-color: #003DA5;
+$border-radius: 0.5rem;
+
+/*-- scss:rules --*/
+
+// ─── Heading hierarchy ───────────────────────────────────────────────────
+// h2: major section divider — blue, with gold rule
+.content h2, main h2 {
+  font-size: 1.6rem;
+  font-family: 'Merriweather', serif;
+  color: #003DA5;
+  margin-top: 3rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 2px solid #FFB81C;
+}
+// h3: subsection — dark, strong
+.content h3, main h3 {
+  font-size: 1.15rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: #12163a;
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+// h4: micro-label — small caps
+.content h4, main h4 {
+  font-size: 0.85rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: #5a6490;
+  margin-top: 1.4rem;
+  margin-bottom: 0.4rem;
+}
+
+// ─── Next module banner ───────────────────────────────────────────────────
+.next-module-banner {
+  display: block;
+  margin-top: 3rem;
+  background: linear-gradient(135deg, #002a7a 0%, #003DA5 60%, #0552c7 100%);
+  border-radius: 1rem;
+  padding: 0;
+  overflow: hidden;
+  text-decoration: none;
+  box-shadow: 0 8px 28px rgba(0,61,165,0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 14px 36px rgba(0,61,165,0.28);
+    text-decoration: none;
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.6rem 2rem;
+    text-decoration: none;
+    color: white;
+
+    &:hover { text-decoration: none; color: white; }
+  }
+
+  .next-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #FFB81C;
+    margin-bottom: 0.3rem;
+  }
+
+  .next-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    font-family: 'Merriweather', serif;
+    color: white;
+  }
+
+  .next-arrow {
+    font-size: 2rem;
+    color: rgba(255,255,255,0.6);
+    flex-shrink: 0;
+    transition: transform 0.2s ease, color 0.2s ease;
+  }
+
+  &:hover .next-arrow {
+    transform: translateX(6px);
+    color: #FFB81C;
+  }
+}
+
+// Capstone final banner (green)
+.next-module-banner.capstone {
+  background: linear-gradient(135deg, #1b4d1e 0%, #2e7d32 100%);
+  box-shadow: 0 8px 28px rgba(46,125,50,0.22);
+  &:hover { box-shadow: 0 14px 36px rgba(46,125,50,0.32); }
+}
+
+// ─── Global breathing room ────────────────────────────────────────────────
+.page-columns .column-page-left,
+.page-columns .column-body,
+#quarto-content > * {
+  padding-top: 0.5rem;
+}
+
+main.content {
+  padding-bottom: 4rem;
+}
+
+h2 { margin-top: 2.8rem; margin-bottom: 1rem; }
+h3 { margin-top: 2rem; }
+
+p { line-height: 1.75; }
+
+hr {
+  border-color: #e0e7ef;
+  margin: 2.5rem 0;
+}
+
+// ─── Hero section ────────────────────────────────────────────────────────
+.hero-section {
+  color: white;
+  padding: 4.5rem 2.5rem;
+  border-radius: 1.25rem;
+  margin-bottom: 3rem;
+  box-shadow: 0 12px 40px rgba(0,61,165,0.22);
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+
+  // Gradient overlay rendered on top of the background image
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(140deg, rgba(0,32,100,0.93) 0%, rgba(0,61,165,0.88) 50%, rgba(5,82,199,0.84) 100%);
+    border-radius: inherit;
+    z-index: 0;
+  }
+
+  // Decorative circle
+  &::after {
+    content: '';
+    position: absolute;
+    top: -40px; right: -60px;
+    width: 300px; height: 300px;
+    background: rgba(255,184,28,0.09);
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  // All direct children sit above the overlays
+  > * { position: relative; z-index: 1; }
+}
+
+.hero-section h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: white !important;
+  margin-bottom: 1.1rem;
+  line-height: 1.3;
+}
+
+.hero-section p {
+  font-size: 1.15rem;
+  opacity: 0.92;
+  max-width: 680px;
+  line-height: 1.7;
+}
+
+.hero-badge {
+  display: inline-block;
+  background: $secondary;
+  color: #1a1200;
+  font-weight: 700;
+  font-size: 0.75rem;
+  padding: 0.32rem 1rem;
+  border-radius: 2rem;
+  margin-bottom: 1.3rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+// ─── Canvas reminder banner ───────────────────────────────────────────────
+.canvas-reminder {
+  background: linear-gradient(135deg, #fffcee 0%, #fff9e0 100%);
+  border: 2px solid #FFB81C;
+  border-radius: 0.9rem;
+  padding: 1.1rem 1.4rem;
+  margin: 0 0 2.5rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.9rem;
+  box-shadow: 0 3px 14px rgba(255,184,28,0.14);
+
+  .canvas-reminder-body {
+    flex: 1;
+  }
+
+  strong {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #7a4800;
+    margin-bottom: 0.25rem;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.87rem;
+    color: #5c3a00;
+    line-height: 1.6;
+  }
+}
+
+// ─── Module grid & cards ──────────────────────────────────────────────────
+.module-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0 2.5rem;
+}
+
+.module-card {
+  background: white;
+  border: 1px solid #dce5f0;
+  border-radius: 1rem;
+  padding: 1.6rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px rgba(0,61,165,0.05);
+}
+
+.module-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 16px 36px rgba(0,61,165,0.13);
+  border-color: #b8cbee;
+  text-decoration: none;
+  color: inherit;
+
+  .module-cta {
+    background: $primary;
+    color: white;
+    border-color: $primary;
+  }
+}
+
+.module-card .module-number {
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: $primary;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.45rem;
+}
+
+.module-card h3 {
+  font-size: 1.08rem;
+  font-weight: 700;
+  margin-bottom: 0.65rem;
+  color: #12163a;
+  font-family: 'Merriweather', serif;
+  line-height: 1.4;
+}
+
+.module-card p {
+  font-size: 0.88rem;
+  color: #5a6070;
+  flex-grow: 1;
+  margin-bottom: 1.1rem;
+  line-height: 1.65;
+}
+
+.module-card .module-footer {
+  display: flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.1rem;
+}
+
+.module-tag {
+  background: #eef2ff;
+  color: $primary;
+  font-size: 0.72rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+// CTA button on module card
+.module-cta {
+  display: inline-block;
+  margin-top: auto;
+  padding: 0.5rem 1rem;
+  border: 2px solid $primary;
+  border-radius: 0.5rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: $primary;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-align: center;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+  width: 100%;
+}
+
+// ─── Learning objectives ──────────────────────────────────────────────────
+.learning-objectives {
+  background: linear-gradient(135deg, #eef2ff 0%, #e6f0fb 100%);
+  border-left: 4px solid $primary;
+  border-radius: 0 0.6rem 0.6rem 0;
+  padding: 1.3rem 1.6rem;
+  margin: 1.8rem 0;
+}
+
+.learning-objectives h4 {
+  color: $primary;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-bottom: 0.7rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+
+// ─── Resource links ───────────────────────────────────────────────────────
+.resource-list {
+  list-style: none;
+  padding: 0;
+}
+
+.resource-list li {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid #edf0f5;
+  display: flex;
+  align-items: baseline;
+  gap: 0.55rem;
+}
+
+.resource-list li:last-child { border-bottom: none; }
+
+.resource-type {
+  background: #f0f4ff;
+  color: $primary;
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 0.15rem 0.55rem;
+  border-radius: 0.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
+.resource-type.video   { background: #fff3e0; color: #d84800; }
+.resource-type.slides  { background: #e8f5e9; color: #1b6b20; }
+.resource-type.guide   { background: #fce4ec; color: #880e4f; }
+.resource-type.tool    { background: #ede7f6; color: #4527a0; }
+.resource-type.reading { background: #e0f2f1; color: #00695c; }
+
+// ─── Progress tracker ─────────────────────────────────────────────────────
+.progress-tracker {
+  background: white;
+  border: 1px solid #dce5f0;
+  border-radius: 0.85rem;
+  padding: 1.6rem;
+  margin: 2rem 0;
+}
+
+// ─── Quiz container & questions ───────────────────────────────────────────
+.quiz-container {
+  background: #f8fafd;
+  border: 1px solid #dce5f0;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+// Quiz progress bar
+.quiz-progress {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #6b7280;
+
+  .quiz-progress-bar {
+    flex: 1;
+    height: 6px;
+    background: #e5e9f0;
+    border-radius: 99px;
+    overflow: hidden;
+
+    .quiz-progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, $primary, #1a6ae8);
+      border-radius: 99px;
+      transition: width 0.4s ease;
+    }
+  }
+}
+
+.quiz-question {
+  background: white;
+  border: 1px solid #dce5f0;
+  border-radius: 0.85rem;
+  padding: 1.5rem 1.6rem;
+  margin: 1.25rem 0;
+  box-shadow: 0 1px 4px rgba(0,61,165,0.04);
+
+  &:first-child { margin-top: 0; }
+}
+
+.quiz-question .question-text {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  font-size: 0.97rem;
+  color: #12163a;
+  line-height: 1.55;
+}
+
+.quiz-option {
+  display: block;
+  padding: 0.6rem 1rem;
+  border: 2px solid #e0e7ef;
+  border-radius: 0.5rem;
+  margin: 0.4rem 0;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.quiz-option:hover { border-color: $primary; background: #f0f4ff; }
+.quiz-option.correct { border-color: $success; background: #e8f5e9; color: $success; }
+.quiz-option.incorrect { border-color: #c62828; background: #ffebee; color: #c62828; }
+
+// ─── Navbar ───────────────────────────────────────────────────────────────
+.navbar {
+  box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+  backdrop-filter: blur(4px);
+}
+
+.navbar-brand img {
+  height: 36px;
+  border-radius: 4px;
+}
+
+// ─── Enhanced footer ──────────────────────────────────────────────────────
+.nav-footer {
+  background: #0d1030 !important;
+  color: #a8b4d0 !important;
+  border-top: 3px solid #FFB81C !important;
+  padding: 1.4rem 2rem !important;
+  font-size: 0.84rem !important;
+
+  a { color: #8aa8d4 !important; text-decoration: none; }
+  a:hover { color: #FFB81C !important; text-decoration: none; }
+
+  .nav-footer-left, .nav-footer-center, .nav-footer-right {
+    color: #a8b4d0 !important;
+  }
+}
+
+footer {
+  background: #0d1030;
+  color: #a8b4d0;
+  margin-top: 4rem;
+  padding: 1.5rem 2rem;
+  font-size: 0.84rem;
+  border-top: 3px solid $secondary;
+
+  a { color: #8aa8d4; text-decoration: none; }
+  a:hover { color: #FFB81C; text-decoration: none; }
+}
+
+// ─── TOC ──────────────────────────────────────────────────────────────────
+#TOC {
+  font-size: 0.87rem;
+  border-left: 2px solid #e0e7ef;
+  padding-left: 0.75rem;
+}
+
+// ─── Callouts ─────────────────────────────────────────────────────────────
+.callout {
+  border-radius: 0.6rem !important;
+}
+
+// ─── Responsive ───────────────────────────────────────────────────────────
+@media (max-width: 768px) {
+  .hero-section { padding: 3rem 1.5rem; }
+  .hero-section h1 { font-size: 1.75rem; }
+  .module-grid { grid-template-columns: 1fr; }
+  .canvas-reminder { flex-direction: column; }
+  .canvas-reminder .canvas-reminder-img { width: 100%; min-width: unset; height: 120px; }
+  footer { padding: 1.5rem; }
+}

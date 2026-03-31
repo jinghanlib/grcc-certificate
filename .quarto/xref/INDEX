@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "d01fc309"
+  },
+  "about.qmd": {
+    "about.html": "48555410"
+  },
+  "knowledge-checks.qmd": {
+    "knowledge-checks.html": "bcd83a98"
+  },
+  "modules/05-publish-share.qmd": {
+    "05-publish-share.html": "edf18f8a"
+  },
+  "modules/03-data-management.qmd": {
+    "03-data-management.html": "d3c0cc32"
+  },
+  "modules/07-capstone.qmd": {
+    "07-capstone.html": "cf4eb959"
+  },
+  "modules/04-literature-review.qmd": {
+    "04-literature-review.html": "093a3c06"
+  },
+  "modules/02-scholarly-communication.qmd": {
+    "02-scholarly-communication.html": "9856a511"
+  },
+  "modules/06-graduate-academic-affairs.qmd": {
+    "06-graduate-academic-affairs.html": "f6e66d7a"
+  },
+  "modules/01-citation-management.qmd": {
+    "01-citation-management.html": "f2b90a46"
+  }
+}

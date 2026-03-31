@@ -1,0 +1,139 @@
+---
+title: "Module 6: Graduate Academic Affairs"
+subtitle: "Formatting, ProQuest submission, and graduation requirements"
+---
+
+::: {.learning-objectives}
+#### 🎯 Learning Objectives
+
+After completing this module, you will be able to:
+
+- Understand UCR's thesis and dissertation formatting requirements
+- Navigate the ProQuest electronic submission process
+- Identify key milestones and deadlines in the graduation timeline
+- Know which office to contact for graduation-related questions
+:::
+
+---
+
+## Overview
+
+If you are completing your thesis or dissertation at UC Riverside, you will first prepare your manuscript using the **formatting guidelines provided by the Graduate Council**. Before submitting, carefully review the requirements or attend a formatting workshop to ensure your document meets all university standards.
+
+Once your committee has approved your final manuscript, submit it electronically via **ProQuest** for a final format review. After approval and all required forms are completed, your thesis or dissertation will be officially filed and you will be cleared for degree conferral.
+
+> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
+
+---
+
+## Formatting Requirements
+
+UCR Graduate Council sets specific formatting standards for all theses and dissertations. Key areas include:
+
+- **Margins:** Specific requirements for top, bottom, left, and right margins
+- **Font and size:** Approved fonts and minimum size requirements
+- **Spacing:** Line spacing requirements for body text, block quotes, and reference lists
+- **Page numbering:** Specific rules for preliminary pages vs. body pages
+- **Title page:** Required elements and exact formatting
+- **Table of contents:** Required formatting and depth
+
+::: {.callout-warning}
+### Attend a Format Workshop Before You Submit
+
+Formatting errors are one of the most common causes of delayed degree conferral. Graduate Division offers regular formatting workshops and detailed guides. **Do not wait until the last minute.**
+:::
+
+---
+
+## The Submission Process
+
+### Step-by-Step
+
+1. **Draft and revise** your thesis/dissertation with your advisor and committee
+2. **Attend a format workshop** or review formatting guidelines carefully
+3. **Committee approval** — get required signatures on all forms
+4. **ProQuest submission** — upload your final PDF for format review
+5. **Format review** — Graduate Division reviews and may request revisions
+6. **Final approval** — once format-approved and forms completed, you are cleared for degree conferral
+7. **eScholarship deposit** — your work is automatically deposited (unless you opt for an embargo)
+
+### Embargo Options
+
+You may request an **embargo** (delay in public access) if:
+
+- A publisher has requested exclusivity for publication
+- Your research contains sensitive data
+- You are filing patents related to your work
+
+Contact Graduate Division to discuss embargo options.
+
+---
+
+## ProQuest and Your Rights
+
+Submitting to ProQuest is a **graduation requirement**, but it is *not* the same as assigning all publishing rights. ProQuest's default agreement:
+
+- Makes your work available in their dissertation database
+- Allows you to **retain copyright**
+- Does not prevent you from publishing with a commercial publisher
+
+Always read the ProQuest publishing agreement before submitting. For questions, contact Jing Han ([jingh@ucr.edu](mailto:jingh@ucr.edu)).
+
+---
+
+## Key Contacts
+
+| Need | Contact |
+|---|---|
+| Formatting, forms, graduation timeline | [UCR Graduate Division](https://graduate.ucr.edu/) |
+| ProQuest questions, copyright in your thesis | Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
+| eScholarship deposit | Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
+
+---
+
+## Resources
+
+::: {.resource-list}
+- [**Slides: Dissertation and Thesis Formatting and Submission Workshop**](https://docs.google.com/presentation/d/16hibz_ztHns8QJ7vXH56b8SKDpIGXTKcgHePdPebA7U/edit?usp=sharing)
+  [Slides]{.resource-type .slides}
+
+- [**Recording: Format Workshop for Your Thesis and Dissertation**](https://www.youtube.com/watch?v=OP0ts5BLoXM)
+  [Video]{.resource-type .video}
+
+- [**UCR Graduate Division Filing Resources**](https://graduate.ucr.edu/filing-resources#formatting-and-submission-link) — formatting guidelines, workshops, forms, and timelines
+  [Guide]{.resource-type}
+:::
+
+---
+
+## Assignment
+
+::: {.callout-important}
+### 📋 Assignment: Graduate Academic Affairs Knowledge Check
+
+Complete the knowledge check quiz in the [Knowledge Checks](../knowledge-checks.qmd) page. The quiz is also available on Canvas for credit.
+
+*This assignment is required for the certificate.*
+:::
+
+---
+
+## Get Help
+
+- 📧 Formatting, forms, graduation timeline: [UCR Graduate Division](https://graduate.ucr.edu/)
+- 📧 ProQuest questions, copyright: Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+- 📧 eScholarship deposit: Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+
+---
+
+```{=html}
+<div class="next-module-banner capstone">
+  <a href="07-capstone.qmd">
+    <div>
+      <div class="next-label">Final Step · Module 7</div>
+      <div class="next-title">🎓 Capstone: Research Plan</div>
+    </div>
+    <div class="next-arrow">→</div>
+  </a>
+</div>
+```

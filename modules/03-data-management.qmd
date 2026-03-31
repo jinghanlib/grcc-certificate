@@ -1,0 +1,183 @@
+---
+title: "Module 3: Data Management"
+subtitle: "Plan, organize, and publish your research data"
+---
+
+::: {.learning-objectives}
+#### 🎯 Learning Objectives
+
+After completing this module, you will be able to:
+
+- Explain what a Data Management Plan (DMP) is and why it is required
+- Use DMPTool to write a DMP for your research
+- Apply best practices for organizing, naming, and documenting data files
+- Understand the difference between open and proprietary file formats
+- Publish your data with Dryad and increase your research impact
+:::
+
+---
+
+## Overview
+
+This module introduces **data management plans** — an integral component of your research — and **data publishing**. A DMP is required for IRB applications and grant applications. Publishing your data in an open access repository increases your publication count and supports data reuse and research validation.
+
+> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
+
+---
+
+## What Is a Data Management Plan?
+
+A **Data Management Plan (DMP)** is a formal document that describes:
+
+- What data you will collect or generate
+- How the data will be organized, stored, and backed up
+- What formats and standards you will use
+- Who will have access to the data during and after the project
+- How and where the data will be shared or preserved after the project ends
+
+::: {.callout-warning}
+### When Are DMPs Required?
+
+- **IRB (Institutional Review Board) applications** at UCR
+- **Federal grant applications** (NSF, NIH, NEH, and most other funders)
+- Many journal and publisher submission requirements
+:::
+
+---
+
+## DMPTool
+
+[**DMPTool**](https://dmptool.org) is a free online tool that helps researchers write data management plans. It provides:
+
+- Funder-specific DMP templates (NSF, NIH, NEH, etc.)
+- Guidance text for each section
+- Collaboration features to share drafts with your advisor
+- Example DMPs from other researchers
+
+**[UCR Data Management Plan Guide](https://guides.lib.ucr.edu/c.php?g=291771&p=1943633)** — UCR Library's guide to writing your DMP.
+
+---
+
+## Data Organization Best Practices
+
+### File Naming Conventions
+
+Use consistent, descriptive file names that include:
+
+- Project identifier
+- Date (YYYY-MM-DD format)
+- Version number
+
+**Example:** `smith-dissertation-survey-data-2025-01-15-v2.csv`
+
+### Folder Structure
+
+Organize files into logical folders:
+```
+project/
+  ├── raw-data/          # Never modify original data
+  ├── processed-data/    # Cleaned, analysis-ready data
+  ├── scripts/           # Analysis code
+  ├── outputs/           # Figures, tables, reports
+  └── docs/              # README, codebook, DMP
+```
+
+### Documentation Files
+
+| Document | Purpose |
+|---|---|
+| **README** | High-level overview of the project and instructions for using the files |
+| **Codebook** | Defines specific variables, units, and labels within the dataset |
+| **DMP** | Overall data management strategy for the project lifecycle |
+
+---
+
+## File Formats: Open vs. Proprietary
+
+For long-term data sharing and archiving, **open file formats** are strongly preferred:
+
+| Data Type | Open Format (✅ Preferred) | Proprietary Format |
+|---|---|---|
+| Tabular data | `.csv`, `.tsv` | `.xlsx` (Excel) |
+| Text | `.txt`, `.md`, `.pdf/a` | `.docx` (Word) |
+| Images | `.tiff`, `.png` | `.psd` (Photoshop) |
+| Audio | `.wav`, `.flac` | `.mp3` |
+| Geospatial | `.geojson`, `.shp` | `.mdb` (ArcGIS) |
+
+Open formats can be read by any software now and in the future — proprietary formats may become unreadable if the software is discontinued.
+
+---
+
+## Data Publishing with Dryad
+
+[**Dryad**](https://datadryad.org) is a curated, open access data repository that makes research data freely available. Benefits include:
+
+- Assigns a **DOI** to your dataset — making it citable
+- Increases your **citation count** (data citations are recognized)
+- Facilitates **reproducibility** and research validation
+- Many journals require or recommend Dryad for supplementary data
+
+### Steps to Publish Data on Dryad
+
+1. Organize and document your data (README + codebook)
+2. Convert to open file formats where possible
+3. Create a Dryad account (free for UCR affiliates)
+4. Upload and describe your dataset
+5. Receive a DOI and share it in your publications
+
+---
+
+## Resources
+
+::: {.resource-list}
+- [**UCR Data Management Plan Guide**](https://guides.lib.ucr.edu/c.php?g=291771&p=1943633) — UCR Library's guide to writing your DMP
+  [Guide]{.resource-type}
+
+- [**Slides: Data Publishing with Dryad**](https://datadryad.org/help) — Dryad's official documentation and guides
+  [Slides]{.resource-type .slides}
+
+- [**Dryad Documentation & Guides**](https://datadryad.org/help) — Getting started with data deposit
+  [Guide]{.resource-type}
+:::
+
+---
+
+## Assignment
+
+::: {.callout-important}
+### 📋 Assignment: What Is Your Data Organization Plan?
+
+Write a **brief data organization plan** (1–2 paragraphs) describing:
+
+1. What types of data your research involves
+2. How you will name and organize your files
+3. What file formats you will use and why
+4. Where you will back up your data
+
+**Submission:** Submit your plan to the Canvas course platform.
+
+*This assignment is required for the certificate.*
+:::
+
+---
+
+## Get Help
+
+- 📧 **Research Data Scientist:** Dr. Barbara Martinez Neda · [barbara.martinezneda@ucr.edu](mailto:barbara.martinezneda@ucr.edu)
+- 🔗 [UCR Library Data Services](https://library.ucr.edu/research-support/data-services)
+- 🎓 [GradQuant](https://gradquant.ucr.edu/) — data workshops and consultations
+- 🗓️ UCR Library offers **Data Analysis, Visualization, and Data Management workshops** — [library.ucr.edu](https://library.ucr.edu)
+
+---
+
+```{=html}
+<div class="next-module-banner">
+  <a href="04-literature-review.qmd">
+    <div>
+      <div class="next-label">Up Next · Module 4</div>
+      <div class="next-title">Literature Review Strategies</div>
+    </div>
+    <div class="next-arrow">→</div>
+  </a>
+</div>
+```

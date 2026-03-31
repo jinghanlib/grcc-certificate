@@ -1,0 +1,169 @@
+---
+title: "Module 5: Publish & Share Your Research"
+subtitle: "Navigate copyright, open access, and the publication journey"
+---
+
+::: {.learning-objectives}
+#### 🎯 Learning Objectives
+
+After completing this module, you will be able to:
+
+- Understand who owns the copyright to your thesis or dissertation
+- Identify materials in your thesis/dissertation that may require permission
+- Apply fair use principles to digital projects and academic work
+- Understand Creative Commons licenses and choose the right one
+- Navigate the path from dissertation to book or journal publication
+:::
+
+---
+
+## Overview
+
+This module covers **copyright, licenses, fair use**, and how to share and publish your thesis and dissertation with a publisher. It also introduces ProQuest submission, which is a graduation requirement covered in depth in Module 6.
+
+> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
+
+---
+
+## Copyright Basics for Graduate Students
+
+### Who Owns Your Thesis or Dissertation?
+
+In the U.S., **you (the author)** typically own the copyright to your thesis or dissertation. Copyright is established at the moment of creation.
+
+::: {.callout-note}
+**Important nuance:** If a version of your dissertation is being published with a commercial publisher, the publisher agreement you sign may transfer some or all rights. Always read your publishing agreement carefully before signing.
+:::
+
+### What This Means for You
+
+- You can deposit your work in open access repositories (eScholarship, your institutional repository)
+- You can post to your personal website or academic profile (ResearchGate, Academia.edu)
+- You must comply with any agreements you've signed with publishers for previously published chapters
+
+---
+
+## Materials That May Require Permission
+
+When incorporating third-party content into your thesis or dissertation, some materials **may require permission** from the copyright holder:
+
+- 📷 **Photographs** taken by others
+- 🗺️ **Maps** from published sources
+- 📊 **Figures, tables, or graphs** from journal articles or books
+- 🎵 **Music** (lyrics, scores, recordings)
+- 🎬 **Film stills** or video clips
+- 📜 **Lengthy quotations** from books or articles
+
+Even if something is on the internet or you own a copy of a book, this **does not** mean you have permission to reproduce it. Contact the copyright holder directly, or consult UCR Library.
+
+---
+
+## Fair Use
+
+**Fair use** is a legal doctrine that allows limited use of copyrighted material without permission. Four factors are weighed:
+
+1. **Purpose** — Educational/transformative use favored over commercial use
+2. **Nature** — Factual works favored over creative works
+3. **Amount** — Smaller portions favored over large portions
+4. **Market effect** — Uses that don't harm the market for the original are favored
+
+::: {.callout-warning}
+Fair use determinations are highly fact-specific. When in doubt, seek permission or consult a librarian. UCR Library does not provide legal advice, but can help you think through the analysis.
+:::
+
+---
+
+## Creative Commons Licenses
+
+If you want to make your work openly available, Creative Commons (CC) licenses let you specify exactly what others can do with it:
+
+| License | Code | Meaning |
+|---|---|---|
+| Attribution | CC BY | Others can use freely with credit |
+| Attribution-ShareAlike | CC BY-SA | Must share under same license |
+| Attribution-NonCommercial | CC BY-NC | No commercial use |
+| Attribution-NoDerivatives | CC BY-ND | No modifications allowed |
+| Attribution-NonCommercial-ShareAlike | CC BY-NC-SA | NC + SA combined |
+
+Most open access funders (NIH, Wellcome Trust) require **CC BY**.
+
+---
+
+## From Dissertation to Publication
+
+Turning your dissertation into a book or journal articles is an exciting but complex process.
+
+### Journal Articles
+
+1. Identify target journals in your field
+2. Check the journal's submission requirements and copyright policy
+3. Adapt your dissertation chapter to article format (typically 6,000–10,000 words)
+4. Submit and revise through peer review
+
+### Book Publication
+
+1. Identify academic presses in your field
+2. Prepare a book proposal (overview, chapter summaries, market analysis)
+3. Navigate the peer review and revision process
+4. Review your publisher agreement carefully
+
+### ProQuest Submission
+
+Submitting your thesis or dissertation to ProQuest is a **graduation requirement** — this is separate from transforming your work into a publication with a commercial publisher. See [Module 6: Graduate Academic Affairs](06-graduate-academic-affairs.qmd) for the full submission process.
+
+---
+
+## Resources
+
+::: {.resource-list}
+- [**Slides: Copyright and Your Thesis/Dissertation**](https://docs.google.com/presentation/d/1XVaSMT6icxuWbQ_pCGVwKyQZxqLjtw7pV42AqhBS5vQ/edit?usp=sharing)
+  [Slides]{.resource-type .slides}
+
+- [**Recording: Copyright & Your Dissertation**](https://www.youtube.com/watch?v=7RKfl4rWJ2E)
+  [Video]{.resource-type .video}
+
+- [**Slides: Copyright & Fair Use for Digital Projects**](https://docs.google.com/presentation/d/1sjOKJPA4bcc-1L7Cwv7nwUpB1cZG3Xy3lKpcLocUvA4/edit?usp=sharing)
+  [Slides]{.resource-type .slides}
+
+- [**Recording: Copyright & Fair Use for Digital Projects**](https://www.youtube.com/watch?v=vmX6g9NZ_4g)
+  [Video]{.resource-type .video}
+
+- [**Recording: From Dissertation to Book — Navigating the Publication Process**](https://www.youtube.com/watch?v=g4VduJLstBY)
+  [Video]{.resource-type .video}
+
+- [**Optional Webinar: Demystifying Book Publishing for First-Gen Scholars**](https://www.youtube.com/watch?v=R3QSi5NMBNA)
+  [Video]{.resource-type .video}
+:::
+
+---
+
+## Assignment
+
+::: {.callout-important}
+### 📋 Assignment: Publish and Share Your Thesis and Dissertation Quiz
+
+Complete the knowledge check quiz in the [Knowledge Checks](../knowledge-checks.qmd) page. The quiz is also available on Canvas for credit.
+
+*This assignment is required for the certificate.*
+:::
+
+---
+
+## Get Help
+
+- 📧 **Digital Scholarship Librarian:** Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) · [Schedule a meeting](https://calendly.com/jingh-ucr) — for support on transforming your thesis or dissertation into a publication
+- 🔗 [UCR Graduate Division Filing Resources](https://graduate.ucr.edu/filing-resources#formatting-and-submission-link)
+
+---
+
+```{=html}
+<div class="next-module-banner">
+  <a href="06-graduate-academic-affairs.qmd">
+    <div>
+      <div class="next-label">Up Next · Module 6</div>
+      <div class="next-title">Graduate Academic Affairs</div>
+    </div>
+    <div class="next-arrow">→</div>
+  </a>
+</div>
+```
