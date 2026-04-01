@@ -3,7 +3,7 @@ title: ""
 toc: false
 ---
 
-::: {.hero-section style="background-image: url('images/certificate-thumbnail.jpg')"}
+::: {.hero-section style="background-image: url('images/orbach-library.jpg')"}
 ::: {.hero-badge}
 UC Riverside Library · Self-Paced Certificate
 :::
@@ -36,7 +36,7 @@ Participants develop strategies for:
 <div class="canvas-reminder">
   <div class="canvas-reminder-body">
     <strong>Submit Assignments on Canvas to Earn Points</strong>
-    <p>The knowledge checks on this website mirror the quizzes on Canvas and are for self-study practice. To receive credit toward your certificate, complete and submit all assignments through the <strong>Canvas course platform</strong>.</p>
+    <p>The knowledge checks on this website mirror the quizzes on Canvas and are for self-study practice. To receive credit toward your certificate, complete and submit all assignments through the <strong>Canvas course platform.</strong> Completing quizzes here does <em>not</em> count toward your grade.</p>
   </div>
 </div>
 ```
@@ -45,9 +45,9 @@ Participants develop strategies for:
 
 ```{=html}
 <div class="module-grid">
-<a class="module-card" href="modules/01-citation-management.qmd"><div class="module-number">Module 1</div><h3>Citation Management</h3><p>Master Zotero and Paperpile to organize your references and create biosketches for grant applications.</p><div class="module-footer"><span class="module-tag">Zotero</span><span class="module-tag">Paperpile</span><span class="module-tag">Biosketch</span></div><div class="module-cta">Start Module →</div></a>
-<a class="module-card" href="modules/02-scholarly-communication.qmd"><div class="module-number">Module 2</div><h3>Scholarly Communication</h3><p>Build your academic identity with ORCID, explore open access publishing, and understand eScholarship.</p><div class="module-footer"><span class="module-tag">ORCID</span><span class="module-tag">Open Access</span><span class="module-tag">eScholarship</span></div><div class="module-cta">Start Module →</div></a>
-<a class="module-card" href="modules/03-data-management.qmd"><div class="module-number">Module 3</div><h3>Data Management</h3><p>Create data management plans, organize your research data, and publish with Dryad.</p><div class="module-footer"><span class="module-tag">DMP Tool</span><span class="module-tag">Dryad</span><span class="module-tag">FAIR Data</span></div><div class="module-cta">Start Module →</div></a>
+<a class="module-card" href="modules/01-citation-management.qmd"><div class="module-number">Module 1</div><h3>Citation Management</h3><p>Use Zotero and Paperpile to organize your references and learn how to create biosketches for grant applications.</p><div class="module-footer"><span class="module-tag">Zotero</span><span class="module-tag">Paperpile</span><span class="module-tag">Biosketch</span></div><div class="module-cta">Start Module →</div></a>
+<a class="module-card" href="modules/02-scholarly-communication.qmd"><div class="module-number">Module 2</div><h3>Scholarly Communication</h3><p>Build your academic identity with ORCID, explore open access publishing, and understand UC Open Access Policies and implementations.</p><div class="module-footer"><span class="module-tag">ORCID</span><span class="module-tag">Open Access</span><span class="module-tag">eScholarship</span></div><div class="module-cta">Start Module →</div></a>
+<a class="module-card" href="modules/03-data-management.qmd"><div class="module-number">Module 3</div><h3>Data Management</h3><p>Create data management plans, organize your research data, and learn open data publishing with Dryad.</p><div class="module-footer"><span class="module-tag">DMP Tool</span><span class="module-tag">Dryad</span><span class="module-tag">FAIR Data</span></div><div class="module-cta">Start Module →</div></a>
 <a class="module-card" href="modules/04-literature-review.qmd"><div class="module-number">Module 4</div><h3>Literature Review Strategies</h3><p>Design effective search strategies, understand types of reviews, and use UC Library resources.</p><div class="module-footer"><span class="module-tag">Database Search</span><span class="module-tag">Systematic Review</span><span class="module-tag">Annotated Bibliography</span></div><div class="module-cta">Start Module →</div></a>
 <a class="module-card" href="modules/05-publish-share.qmd"><div class="module-number">Module 5</div><h3>Publish & Share Your Research</h3><p>Navigate copyright, fair use, open access options, and the path from dissertation to publication.</p><div class="module-footer"><span class="module-tag">Copyright</span><span class="module-tag">Fair Use</span><span class="module-tag">Open Access</span></div><div class="module-cta">Start Module →</div></a>
 <a class="module-card" href="modules/06-graduate-academic-affairs.qmd"><div class="module-number">Module 6</div><h3>Graduate Academic Affairs</h3><p>Understand UCR formatting requirements, the ProQuest submission process, and graduation timelines.</p><div class="module-footer"><span class="module-tag">ProQuest</span><span class="module-tag">Formatting</span><span class="module-tag">Graduation</span></div><div class="module-cta">Start Module →</div></a>
@@ -94,8 +94,8 @@ Need additional support? Contact UCR Library experts:
 |---|---|
 | Citation Management | [libstemteam@ucr.edu](mailto:libstemteam@ucr.edu) |
 | Scholarly Communication & Open Access | Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
-| Data Management & Data Services | Dr. Barbara Martinez Neda · [barbara.martinezneda@ucr.edu](mailto:barbara.martinezneda@ucr.edu) |
+| Data Management & Data Services | Barbara Martinez Neda · [barbara.martinezneda@ucr.edu](mailto:barbara.martinezneda@ucr.edu) |
 | Literature Review | [UCR Library Teaching & Learning Services](https://library.ucr.edu/about/directory/staff) |
 | Thesis/Dissertation Formatting | [UCR Graduate Division](https://graduate.ucr.edu/filing-resources) |
 
-**Upcoming Workshops:** [library.ucr.edu](https://library.ucr.edu)
+**UCR Library often offers synchronous workshops on the same topics. Check the [UCR Library website](https://library.ucr.edu) for upcoming sessions.**

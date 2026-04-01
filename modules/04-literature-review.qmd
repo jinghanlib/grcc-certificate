@@ -19,26 +19,72 @@ After completing this module, you will be able to:
 
 ## Overview
 
-This module introduces the different types of reviews you may encounter in academic research. It guides you through designing an effective literature review search strategy and highlights UC Riverside Library resources that support you throughout the process.
+This module introduces the different types of reviews you may encounter in academic research. It guides you through designing an effective literature review search strategy and highlights UC Riverside Library resources that support you throughout the process. In addition to going through this page, review the tutorials and guides the at the Resources Section.
 
-> ✅ Complete the assignments at the end of this module to earn credit toward your certificate!
+> ✅ Complete the assignment at the end of this module and the associated quiz on Canvas to earn credit toward your certificate!
 
 ---
 
 ## Types of Reviews
 
-Different research questions call for different review methodologies. Understanding which type fits your project is essential before you begin searching.
+Different research questions call for different review methodologies. Understanding which type fits your project is essential before you begin searching. The descriptions below are drawn from the [Baylor University Evidence Synthesis guide on Types of Reviews](https://libguides.baylor.edu/evidencesynthesis/typesofreviews).
 
-### Comparison of Common Review Types
+### Literature (Narrative) Review
 
-| Review Type | Purpose | Scope | Typical Use |
+A broad term referring to reviews with a wide scope and non-standardized methodology.
+
+- Search strategies, comprehensiveness, and time range covered vary and do not follow an established protocol.
+
+### Rapid Review
+
+Applies systematic review methodology within a time-constrained setting.
+
+- Employs methodological "shortcuts" (limiting search terms, for example) at the risk of introducing bias.
+- Useful for addressing issues needing quick decisions.
+
+### Scoping Review or Systematic Map
+
+Systematically and transparently collects and categorizes existing evidence on a broad topic or set of research questions.
+
+- Seeks to identify research gaps and opportunities for evidence synthesis.
+- May critically evaluate existing evidence, but does not attempt to synthesize the results in the way a systematic review would.
+- May take longer than a systematic review.
+
+### Umbrella Review
+
+Reviews other systematic reviews on a topic.
+
+- Often defines a broader question than is typical of a traditional systematic review.
+- Most useful when there are competing interventions to consider.
+
+### Systematic Review
+
+A methodical and comprehensive literature synthesis focused on a well-formulated research question.
+
+- Aims to identify and synthesize all of the scholarly research on a particular topic, including both published and unpublished studies.
+- Conducted in an unbiased, reproducible way to provide evidence for practice and policy-making and to identify gaps in research.
+- May involve a meta-analysis.
+- Much more time-intensive than traditional literature reviews.
+
+### Meta-Analysis
+
+A statistical technique for combining the findings from disparate quantitative studies.
+
+- Uses statistical methods to objectively evaluate, synthesize, and summarize results.
+- May be conducted independently or as part of a systematic review.
+
+---
+
+### Comparison at a Glance
+
+| Review Type | Scope | Methodology | Typical Use |
 |---|---|---|---|
-| **Narrative Review** | Summarize existing literature on a topic | Selective | Background chapters, introductions |
-| **Systematic Review** | Comprehensively synthesize evidence on a specific question | Exhaustive | Clinical practice, policy decisions |
-| **Scoping Review** | Map the breadth of literature on a topic | Broad | Identifying gaps, feasibility |
-| **Meta-Analysis** | Statistically combine quantitative results | Selected studies | Estimating effect sizes |
-| **Integrative Review** | Synthesize diverse methodologies | Broad | Theory development |
-| **Rapid Review** | Accelerated systematic review | Selective | Time-sensitive decisions |
+| **Literature (Narrative) Review** | Wide | Non-standardized | Background chapters, introductions |
+| **Rapid Review** | Selective | Abbreviated systematic | Time-sensitive decisions |
+| **Scoping Review / Systematic Map** | Broad | Systematic, no synthesis | Mapping gaps, feasibility |
+| **Umbrella Review** | Broad | Reviews of reviews | Competing interventions |
+| **Systematic Review** | Exhaustive | Rigorous, reproducible | Practice, policy, research gaps |
+| **Meta-Analysis** | Selected studies | Statistical combination | Estimating effect sizes |
 
 ::: {.callout-tip}
 Not sure which type fits your research? Consult your **subject librarian** or your **advisor** — they can help you match your research question to the appropriate methodology.
@@ -64,15 +110,14 @@ Break your question into 2–4 core concepts. For each concept, brainstorm:
 
 ### Step 3: Choose Your Databases
 
-Don't search only Google Scholar! Use databases appropriate to your discipline:
+Start with UC Library Search and Google Scholar (Google Scholar tends to include everything the good, bad and everythin in between, so better to use it critically)! You can also use databases appropriate to your discipline. Explore databases specific to your discipline that UCR Library has access to at the UCR Library [A-Z Databases](https://guides.lib.ucr.edu/az/databases)
 
 | Discipline | Recommended Databases |
 |---|---|
-| Sciences & Medicine | PubMed, Web of Science, Scopus |
-| Social Sciences | PsycINFO, Sociological Abstracts |
-| Humanities | MLA International Bibliography, JSTOR |
-| Engineering | Compendex, IEEE Xplore |
-| All disciplines | UC Library Search, Scopus |
+| Sciences & Medicine | PubMed, Web of Science|
+| Social Sciences and Humanities | JSTOR, Web of Science (Social Science Citation Index and Policy Citation Index), Academic Search Complete|
+| Engineering | arXiv, IEEE Xplore |
+| All disciplines | UC Library Search, Google Scholar |
 
 ### Step 4: Use Boolean Operators
 
@@ -95,7 +140,7 @@ Record every search: database, date, terms used, and number of results. This is 
 An **annotated bibliography** combines a citation with a brief summary and evaluation of each source. It is useful for:
 
 - Tracking what you've read and why it's relevant
-- Preparing for the literature review chapter of your thesis
+- Preparing for the literature review chapter of your thesis or dissertation
 - Demonstrating research depth in grant proposals
 
 ### What Each Annotation Includes
@@ -115,6 +160,9 @@ An **annotated bibliography** combines a citation with a brief summary and evalu
 - [**Guide: Writing an Annotated Bibliography**](https://guides.lib.ucr.edu/c.php?g=171083&p=1126832) — Format and examples
   [Guide]{.resource-type}
 
+- [**Types of Reviews — Baylor University Evidence Synthesis Guide**](https://libguides.baylor.edu/evidencesynthesis/typesofreviews) — Definitions and characteristics of 14 review methodologies
+  [Guide]{.resource-type}
+
 - [**Video Tutorial: How to Use UC Library Search**](https://www.youtube.com/watch?v=kZBpR-ogTZQ)
   [Video]{.resource-type .video}
 
@@ -124,26 +172,21 @@ An **annotated bibliography** combines a citation with a brief summary and evalu
 
 ---
 
-## Assignments
+## Assignment
 
 ::: {.callout-important}
-### 📋 Assignment 1: Literature Review Strategies Quiz
+### 📋 Assignment: What Types of Review(s) Would Work Best for Your Research?
 
-Complete the knowledge check quiz in the [Knowledge Checks](../knowledge-checks.qmd) page. The quiz is also available on Canvas for credit.
-:::
-
-::: {.callout-important}
-### 📋 Assignment 2: What Types of Review(s) Would Work Best for Your Research?
-
-Write a **short reflection (1 paragraph)** explaining:
+Write a **short reflection (1 page)** explaining:
 
 1. Your research question or area
-2. Which type(s) of literature review would be most appropriate and why
+2. Which type(s) of review would be most appropriate and why
 3. Which databases you plan to search
+4. What your search strategy will be
 
 **Submission:** Submit your reflection to the Canvas course platform.
 
-*Both assignments are required for the certificate.*
+*This assignment is required for the certificate.*
 :::
 
 ---

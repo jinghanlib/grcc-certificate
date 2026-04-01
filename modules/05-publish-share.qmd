@@ -21,7 +21,7 @@ After completing this module, you will be able to:
 
 This module covers **copyright, licenses, fair use**, and how to share and publish your thesis and dissertation with a publisher. It also introduces ProQuest submission, which is a graduation requirement covered in depth in Module 6.
 
-> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
+> ✅ Complete the quiz assignment on Canvas to earn credit toward your certificate!
 
 ---
 
@@ -37,30 +37,27 @@ In the U.S., **you (the author)** typically own the copyright to your thesis or 
 
 ### What This Means for You
 
-- You can deposit your work in open access repositories (eScholarship, your institutional repository)
-- You can post to your personal website or academic profile (ResearchGate, Academia.edu)
+- You can deposit your work in open access repositories (eScholarship, UC's institutional repository)
+- You can post to your personal website
 - You must comply with any agreements you've signed with publishers for previously published chapters
 
 ---
 
-## Materials That May Require Permission
+## Copyright Decision Framework
 
-When incorporating third-party content into your thesis or dissertation, some materials **may require permission** from the copyright holder:
+When using third-party content or sharing your own work, work through following four steps. Review the presentation slides and recordings on  Copyright & Fair Use for Digital Projects in the Resources Section to learn more.
 
-- 📷 **Photographs** taken by others
-- 🗺️ **Maps** from published sources
-- 📊 **Figures, tables, or graphs** from journal articles or books
-- 🎵 **Music** (lyrics, scores, recordings)
-- 🎬 **Film stills** or video clips
-- 📜 **Lengthy quotations** from books or articles
+![Copyright decision framework: four steps for navigating permission, policy, and sharing.](../images/copyright-workflow.png){fig-alt="A four-step copyright decision workflow. Step 1: Do you need permission? Step 2: Seek permission if needed. Step 3: Address non-copyright law and policy concerns. Step 4: How do you want to share?" width="100%"}
 
-Even if something is on the internet or you own a copy of a book, this **does not** mean you have permission to reproduce it. Contact the copyright holder directly, or consult UCR Library.
+### Step 1: Do You Need Permission?
 
----
+Ask three questions in sequence:
 
-## Fair Use
+- **Is the work protected by copyright?** Works in the public domain (old enough, U.S. government works, or CC-licensed) do not require permission.
+- **Has a license already been granted?** If the work carries a Creative Commons or open license, check its terms — you may already have permission.
+- **Would your use be fair use?** If yes to any of these questions, skip to Step 3. Otherwise, continue to Step 2.
 
-**Fair use** is a legal doctrine that allows limited use of copyrighted material without permission. Four factors are weighed:
+**Fair use** is a legal doctrine allowing limited use of copyrighted material without permission. Four factors are weighed:
 
 1. **Purpose** — Educational/transformative use favored over commercial use
 2. **Nature** — Factual works favored over creative works
@@ -68,8 +65,42 @@ Even if something is on the internet or you own a copy of a book, this **does no
 4. **Market effect** — Uses that don't harm the market for the original are favored
 
 ::: {.callout-warning}
-Fair use determinations are highly fact-specific. When in doubt, seek permission or consult a librarian. UCR Library does not provide legal advice, but can help you think through the analysis.
+Fair use determinations depend heavily on the specific facts of each case. When in doubt, seek permission or consult a librarian. UCR Library does not provide legal advice, but can help you think through the analysis.
 :::
+
+### Step 2: Seek Permission if Needed
+
+If permission is required:
+
+- **Research who holds the copyright** — it may be the author, publisher, or another rights holder — and send a written request.
+- **Keep records** of all correspondence and permissions granted.
+- **Ensure the permission covers all intended uses** — print and digital, all jurisdictions, etc.
+
+Common materials in theses and dissertations that may require permission:
+
+- 📷 **Photographs** taken by others
+- 🗺️ **Maps** from published sources
+- 📊 **Figures, tables, or graphs** from journal articles or books
+- 🎵 **Music** (lyrics, scores, recordings)
+- 🎬 **Film stills** or video clips (including screenshots of YouTube videos)
+- 📜 **Lengthy quotations** from books or articles
+
+Even if something is freely available online or you own a copy of a book, this **does not** mean you have permission to reproduce it.
+
+### Step 3: Address Non-Copyright Law & Policy Concerns
+
+Even when copyright is not an issue, consider:
+
+- **Contractual or terms of service restrictions** from archives, databases, or websites that limit how their content may be used.
+- **Privacy or publicity rights** — concerns about identifiable individuals in your data or images.
+- **Ethical norms** — certain types of information (e.g., Indigenous cultural knowledge, sensitive research data) may carry obligations beyond copyright law.
+
+### Step 4: How Do You Want to Share?
+
+Once copyright and policy concerns are resolved, decide how to make your work available:
+
+- **Register your copyright** — optional in the U.S., but registration provides legal advantages if infringement occurs. ProQuest offers registration at the time of dissertation submission.
+- **License your work** — Creative Commons licenses let you specify exactly what others can do with it (see below).
 
 ---
 
@@ -85,7 +116,7 @@ If you want to make your work openly available, Creative Commons (CC) licenses l
 | Attribution-NoDerivatives | CC BY-ND | No modifications allowed |
 | Attribution-NonCommercial-ShareAlike | CC BY-NC-SA | NC + SA combined |
 
-Most open access funders (NIH, Wellcome Trust) require **CC BY**.
+Most open access funders (NIH and government funding agencies) require **CC BY**.
 
 ---
 
@@ -100,7 +131,7 @@ Turning your dissertation into a book or journal articles is an exciting but com
 3. Adapt your dissertation chapter to article format (typically 6,000–10,000 words)
 4. Submit and revise through peer review
 
-### Book Publication
+### Book Publication (Review the presentation slides and recordings on From Dissertation to Book — Navigating the Publication Process in the Resources Section)
 
 1. Identify academic presses in your field
 2. Prepare a book proposal (overview, chapter summaries, market analysis)
@@ -151,7 +182,7 @@ Complete the knowledge check quiz in the [Knowledge Checks](../knowledge-checks.
 
 ## Get Help
 
-- 📧 **Digital Scholarship Librarian:** Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) · [Schedule a meeting](https://calendly.com/jingh-ucr) — for support on transforming your thesis or dissertation into a publication
+- 📧 **Digital Scholarship Librarian:** Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
 - 🔗 [UCR Graduate Division Filing Resources](https://graduate.ucr.edu/filing-resources#formatting-and-submission-link)
 
 ---
