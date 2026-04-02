@@ -10,7 +10,7 @@ UC Riverside Library · Self-Paced Certificate
 
 # Graduate Research Core Competencies Certificate
 
-Practical skills for every stage of your research journey — citation management, scholarly communication, data management, literature review, publishing, and more.
+Practical skills for every stage of your research journey — citation management, scholarly communication, data management, literature review strategies, publishing, and more.
 
 **Complete all modules at your own pace to earn your certificate.**
 :::
@@ -22,13 +22,13 @@ The **Graduate Research Core Competencies Certificate** is designed to support g
 Participants develop strategies for:
 
 - **Effective citation management** using tools like Zotero and Paperpile
-- **Advanced literature review techniques** including systematic and scoping reviews
-- **Responsible research data management** and open data publishing
 - **Scholarly communication** — ORCID, researcher identity, and open access
+- **Responsible research data management** and open data publishing
+- **Advanced literature review techniques** including systematic and scoping reviews
 - **Publishing & sharing** theses, dissertations, and research articles
 - **Graduation requirements** — formatting, ProQuest, and Graduate Division workflows
 
-> The modules can be completed **in any order**, at your own pace. A certificate will be awarded upon completion of all modules.
+> The modules can be completed **in any order**, at your own pace. A certificate will be awarded upon completion of all modules' graded assignments.
 
 ---
 
@@ -63,7 +63,7 @@ Participants develop strategies for:
 
 ::: {.column width="30%"}
 ### 📖 Step 1
-**Complete each module** — read the content, explore resources, and watch the videos.
+**Complete each module** by reading the content and exploring resources, such as presentation slides, recordings, guides, and additional readings.
 :::
 
 ::: {.column width="5%"}
@@ -71,7 +71,7 @@ Participants develop strategies for:
 
 ::: {.column width="30%"}
 ### ✏️ Step 2
-**Pass the knowledge check** at the end of each module (where provided).
+**Submit the assignments on Canvas** for each module.
 :::
 
 ::: {.column width="5%"}
@@ -79,7 +79,7 @@ Participants develop strategies for:
 
 ::: {.column width="30%"}
 ### 🎓 Step 3
-**Submit the Capstone Research Plan** to your instructor to receive your official certificate via Accredible.
+**Submit the Capstone Research Plan on Canvas** to receive your official certificate via Accredible.
 :::
 
 ::::

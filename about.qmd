@@ -60,6 +60,6 @@ This certificate program was developed by the **UC Riverside Library** in partne
 
 ## Technical Notes
 
-This site is built with [Quarto](https://quarto.org) and hosted on [GitHub Pages](https://jinghanlib.github.io/grcc-certificate/). The source course was originally developed in Canvas LMS and exported in IMS Common Cartridge (`.imscc`) format.
+This site is built with [Quarto](https://quarto.org) and hosted on [GitHub Pages](https://jinghanlib.github.io/grcc-certificate/). This is the companying website for the Canvas course. The website is designed to streamline the learners' experience. All assignments need to be submitted on Canvas to get points.
 
 To report issues or suggest improvements, please open an issue on [GitHub](https://github.com/jinghanlib/grcc-certificate).
