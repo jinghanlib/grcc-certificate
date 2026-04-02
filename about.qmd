@@ -11,13 +11,13 @@ The **Graduate Research Core Competencies Certificate** is a self-paced online p
 By completing this certificate, graduate students gain practical, transferable skills to:
 
 - Conduct, manage, and disseminate their research **ethically and efficiently**
-- Increase their **research visibility** and professional profile
-- Meet expectations of **funding agencies and academic publishers**
+- Understand key concepts and practices in academic publishing and open access publishing
+- Increase their **research visibility** and academic profiles
 - Navigate UCR's **graduation requirements** with confidence
 
 ### Who This Is For
 
-This certificate is designed for **all UCR graduate students**, regardless of discipline or career stage — whether you are just starting your program or preparing to file your dissertation.
+This certificate is designed for **all UCR graduate students**, regardless of discipline or career stage, whether you are just starting your program or preparing to file your dissertation.
 
 ---
 
@@ -48,14 +48,18 @@ This certificate program was developed by the **UC Riverside Library** in partne
 - **Dr. Jing Han** — Digital Scholarship Librarian · [jingh@ucr.edu](mailto:jingh@ucr.edu)
 - **Dr. Barbara Martinez Neda** — Research Data Scientist · [barbara.martinezneda@ucr.edu](mailto:barbara.martinezneda@ucr.edu)
 - **Mary-Michelle Moore** — STEM Teaching Librarian · [marymichelle.moore@ucr.edu](mailto:marymichelle.moore@ucr.edu)
-- **Michele Potter** — STEM Collection Strategist
+- **Michele Potter** — STEM Collection Strategist · [michele.potter@ucr.edu](mailto:michele.potter@ucr.edu)
+- **Jessica Renteria** — Graduate Student Affairs Officer · [jessica.renteria@ucr.edu](mailto:jessica.renteria@ucr.edu)
+- **Elisa Cortez** — Medical Education and Clinical Outreach Librarian · [elisa.cortez@ucr.edu](mailto:elisa.cortez@ucr.edu)
 
 **Library website:** [library.ucr.edu](https://library.ucr.edu)
+
+**UCR Graduate Division website:** [graduate.ucr.edu](https://graduate.ucr.edu/)
 
 ---
 
 ## Technical Notes
 
-This site is built with [Quarto](https://quarto.org) and hosted on [GitHub Pages](https://pages.github.com). The source course was originally developed in Canvas LMS and exported in IMS Common Cartridge (`.imscc`) format.
+This site is built with [Quarto](https://quarto.org) and hosted on [GitHub Pages](https://jinghanlib.github.io/grcc-certificate/). The source course was originally developed in Canvas LMS and exported in IMS Common Cartridge (`.imscc`) format.
 
-To report issues or suggest improvements, please open an issue on [GitHub](https://github.com/YOUR-USERNAME/grcc-certificate).
+To report issues or suggest improvements, please open an issue on [GitHub](https://github.com/jinghanlib/grcc-certificate).
