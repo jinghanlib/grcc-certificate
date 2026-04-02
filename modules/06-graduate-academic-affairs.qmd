@@ -22,8 +22,6 @@ If you are completing your thesis or dissertation at UC Riverside, you will firs
 
 Once your committee has approved your final manuscript, submit it electronically via **ProQuest** for a final format review. After approval and all required forms are completed, your thesis or dissertation will be officially filed and you will be cleared for degree conferral.
 
-> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
-
 ---
 
 ## Formatting Requirements
@@ -61,7 +59,7 @@ Formatting errors are one of the most common causes of delayed degree conferral.
 
 You may request an **embargo** (delay in public access) if:
 
-- A publisher has requested exclusivity for publication
+- A publisher has requested exclusivity for publication or you want to turn publish your dissertation work with a publisher in the future
 - Your research contains sensitive data
 - You are filing patents related to your work
 
@@ -77,7 +75,7 @@ Submitting to ProQuest is a **graduation requirement**, but it is *not* the same
 - Allows you to **retain copyright**
 - Does not prevent you from publishing with a commercial publisher
 
-Always read the ProQuest publishing agreement before submitting. For questions, contact Jing Han ([jingh@ucr.edu](mailto:jingh@ucr.edu)).
+Always read the ProQuest publishing agreement before submitting. For questions, contact [UCR Graduate Division](https://graduate.ucr.edu/).
 
 ---
 
@@ -86,8 +84,8 @@ Always read the ProQuest publishing agreement before submitting. For questions, 
 | Need | Contact |
 |---|---|
 | Formatting, forms, graduation timeline | [UCR Graduate Division](https://graduate.ucr.edu/) |
-| ProQuest questions, copyright in your thesis | Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
-| eScholarship deposit | Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
+| Copyright in your thesis | Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
+| eScholarship deposit | Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
 
 ---
 
@@ -121,8 +119,8 @@ Complete the knowledge check quiz in the [Knowledge Checks](../knowledge-checks.
 ## Get Help
 
 - 📧 Formatting, forms, graduation timeline: [UCR Graduate Division](https://graduate.ucr.edu/)
-- 📧 ProQuest questions, copyright: Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
-- 📧 eScholarship deposit: Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+- 📧 ProQuest questions, copyright: Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+- 📧 eScholarship deposit: Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
 
 ---
 

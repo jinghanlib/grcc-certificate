@@ -45,7 +45,7 @@ This certificate program was developed by the **UC Riverside Library** in partne
 
 **Key contributors:**
 
-- **Jing Han** — Digital Scholarship Librarian · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+- **Dr. Jing Han** — Digital Scholarship Librarian · [jingh@ucr.edu](mailto:jingh@ucr.edu)
 - **Dr. Barbara Martinez Neda** — Research Data Scientist · [barbara.martinezneda@ucr.edu](mailto:barbara.martinezneda@ucr.edu)
 - **Mary-Michelle Moore** — STEM Teaching Librarian · [marymichelle.moore@ucr.edu](mailto:marymichelle.moore@ucr.edu)
 - **Michele Potter** — STEM Collection Strategist

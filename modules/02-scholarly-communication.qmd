@@ -19,34 +19,37 @@ After completing this module, you will be able to:
 
 ## Overview
 
-This module introduces online academic profiles, open access publishing, and the tools that make your scholarship visible and discoverable. **ORCID is the one thing you must remember after taking this module!**
+This module introduces online academic profiles, open access publishing, and the tools that make your scholarship visible and discoverable. In addition to this summary webpage, review the presentation slides, recordings, and other resources in the Resources Section to learn more. **ORCID is the one thing you must remember after taking this module!**
 
-> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
+> ✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your certificate!
 
 ---
 
 ## ORCID: Your Persistent Research Identity
 
-**ORCID** (Open Researcher and Contributor ID) is a free, unique digital identifier that distinguishes *you* from every other researcher — even those with the same name.
+**ORCID** (Open Researcher and Contributor ID) is a free, unique digital identifier that distinguishes *you* from every other researcher, even those with the same name.
 
 ### Why ORCID Matters
 
 - Ensures your publications are correctly attributed to you regardless of name changes or institutional affiliations
 - Required by many funders (NIH, NSF) and journals for submission
 - Connects to other research systems (Scopus, Web of Science, funding databases) automatically
+- Saves time to document your research contributions
+- Provides "unconventional" fine-grained ways of documenting your research contributions, such as peer review experiences and services.
 
 ### Getting Started with ORCID
 
-1. Register at [orcid.org](https://orcid.org) — free, takes 5 minutes
+1. Register at [orcid.org](https://orcid.org). It's free and takes less than 5 minutes
 2. Add your works — import from PubMed, CrossRef, or manually
 3. Make your ORCID record public to maximize visibility
 4. Add your ORCID iD to your email signature, CV, and manuscript submissions
+5. Learn more about how to get started with ORCID and detailed instructions on ORCID [Here](https://info.orcid.org/researchers/#optimize) and [Here](https://support.orcid.org/hc/en-us/articles/18498712201239-Getting-started-with-your-ORCID-record)
 
 ---
 
 ## Open Access Publishing
 
-Open access (OA) means making your research freely available online to anyone, anywhere, without a paywall.
+Open access (OA) means making your research freely available online to anyone, anywhere, without a paywall. You might have heard about other terms starting with "open", such as open data, open source, open educational resources (OER). But in this section, we focus on open access publishing.
 
 ### Three Common Types of Open Access
 
@@ -54,8 +57,8 @@ Open access (OA) means making your research freely available online to anyone, a
 
 | Type | Description | Cost to Author |
 |---|---|---|
-| **Gold OA** | Published in a fully open access journal | Article Processing Charge (APC) — may be covered by grants |
-| **Green OA** | Deposit a preprint or accepted manuscript in a repository | Free |
+| **Gold OA** | Published in a fully open access journal | Article Processing Charge (APC) — Use the [JOLT journal look up tool](https://jolt.cdlib.org/) to see if UC Open Access Agreement can cover the charges|
+| **Green OA** | Deposit a preprint or accepted manuscript in a repository, such as eScholarship (UC's institutional repository) | Free |
 | **Diamond OA** | Published open access with no cost to author or reader | Free |
 
 ---
@@ -65,9 +68,9 @@ Open access (OA) means making your research freely available online to anyone, a
 [**eScholarship**](https://escholarship.org/aboutEschol) is the UC System's open access publishing platform and institutional repository. It gives departments, research units, and individual scholars direct control over disseminating their scholarship.
 
 - **UCR's eScholarship instance:** [escholarship.org/uc/ucr](https://escholarship.org/uc/ucr)
-- As a UCR graduate student, you can deposit published articles, presentations, recordings, and other academic work
+- As a UCR graduate student, you can deposit published articles (most likely but consult with UCR eScholarship liaison to learn more: Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)), presentations, recordings, and other academic work
 - Your **ProQuest thesis/dissertation submissions are deposited into eScholarship automatically**
-- Questions? Contact UCR eScholarship liaison: Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+- Questions? Contact UCR eScholarship liaison: Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
 
 ---
 
@@ -81,7 +84,7 @@ The UC Open Access Policy allows UC employees (including graduate students paid 
 
 ![UC Open Access Policy Coverage](../images/image-4.png){fig-alt="Diagram showing UC open access policy coverage."}
 
-More information: [UC Open Access Policy](https://osc.universityofcalifornia.edu/for-authors/open-access-policy/) · Questions: Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+More information: [UC Open Access Policy](https://osc.universityofcalifornia.edu/for-authors/open-access-policy/) · Questions: Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
 
 ---
 
@@ -98,7 +101,7 @@ Each UC campus has its own instance. You can explore UCR's eScholarship instance
 ::: {.callout-note collapse="true"}
 ### Does the UC Open Access Policy apply to me as a graduate student?
 
-If you are a graduate student **paid by the UC system**, then this policy applies to you. You may opt out of the policy for any article for any reason. Contact Jing Han ([jingh@ucr.edu](mailto:jingh@ucr.edu)) if you have questions.
+If you are a graduate student **paid by the UC system**, then this policy applies to you. You may opt out of the policy for any article for any reason. Contact Dr. Jing Han ([jingh@ucr.edu](mailto:jingh@ucr.edu)) if you have questions.
 :::
 
 ::: {.callout-note collapse="true"}
@@ -125,7 +128,7 @@ No. Your ORCID record should include all types of scholarly outputs — peer-rev
   [Slides]{.resource-type .slides}
 
 - [**UCR Scholarly Communication Services**](https://library.ucr.edu/research-support/scholarly-communication-services)
-  [Guide]{.resource-type}
+  [Website]{.resource-type}
 :::
 
 ---
@@ -136,7 +139,7 @@ No. Your ORCID record should include all types of scholarly outputs — peer-rev
 ### 📋 Assignment: What Is Your ORCID?
 
 1. Register for an ORCID iD at [orcid.org](https://orcid.org) (if you don't have one already)
-2. Add at least **2 works** to your ORCID record (publications, presentations, or preprints)
+2. Add at least **2 works** to your ORCID record (institutional affiliation, educational experience, publications, presentations, preprints, services, awards, peer review or other works)
 3. Submit your **ORCID iD URL** (e.g., `https://orcid.org/0000-0000-0000-0000`) to the Canvas course platform
 
 *This assignment is required for the certificate.*
@@ -146,8 +149,8 @@ No. Your ORCID record should include all types of scholarly outputs — peer-rev
 
 ## Get Help
 
-- 🗓️ UCR Library offers synchronous **Scholarly Communication workshops** — [library.ucr.edu](https://library.ucr.edu)
-- 📧 **Digital Scholarship Librarian:** Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+- 🗓️ UCR Library offers synchronous **Scholarly Communication workshops** sometimes, check the upcoming sessions at [library.ucr.edu](https://library.ucr.edu)
+- 📧 **Digital Scholarship Librarian :** Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
 - 📧 **STEM Collection Strategist:** Michele Potter · [michele.potter@ucr.edu](mailto:michele.potter@ucr.edu)
 - 🔗 [UCR Scholarly Communication Services](https://library.ucr.edu/research-support/scholarly-communication-services)
 

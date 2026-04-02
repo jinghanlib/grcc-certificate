@@ -12,16 +12,16 @@ After completing this module, you will be able to:
 - Use DMPTool to write a DMP for your research
 - Apply best practices for organizing, naming, and documenting data files
 - Understand the difference between open and proprietary file formats
-- Publish your data with Dryad and increase your research impact
+- Understand open data publishing with Dryad and increase your research impact
 :::
 
 ---
 
 ## Overview
 
-This module introduces **data management plans** — an integral component of your research — and **data publishing**. A DMP is required for IRB applications and grant applications. Publishing your data in an open access repository increases your publication count and supports data reuse and research validation.
+This module introduces **data management plans**, an integral component of your research and **data publishing**. A DMP is required for IRB applications and grant applications. Publishing your data in an open access repository increases your publication count and supports data reuse and research validation. In addition to going through the summaries below, review the presentation slides, recordings, and other resources in the Resources Section.
 
-> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
+> ✅ Complete the assignment at the end of this module and associated quiz on Canvas to earn credit toward your certificate!
 
 ---
 
@@ -52,6 +52,7 @@ A **Data Management Plan (DMP)** is a formal document that describes:
 - Funder-specific DMP templates (NSF, NIH, NEH, etc.)
 - Guidance text for each section
 - Collaboration features to share drafts with your advisor
+- Connection with the UCR Library to review your DMP and provide feedback
 - Example DMPs from other researchers
 
 **[UCR Data Management Plan Guide](https://guides.lib.ucr.edu/c.php?g=291771&p=1943633)** — UCR Library's guide to writing your DMP.
@@ -147,12 +148,9 @@ Open formats can be read by any software now and in the future — proprietary f
 ::: {.callout-important}
 ### 📋 Assignment: What Is Your Data Organization Plan?
 
-Write a **brief data organization plan** (1–2 paragraphs) describing:
+Provide a written plan (one page) for your project’s data organization strategy, or submit a screenshot of an existing directory that demonstrates your organization. Your submission must show how you organize your files and where your README or Codebook is located.
 
-1. What types of data your research involves
-2. How you will name and organize your files
-3. What file formats you will use and why
-4. Where you will back up your data
+Ensure your strategy is logical enough for a collaborator to navigate without your assistance.
 
 **Submission:** Submit your plan to the Canvas course platform.
 
@@ -166,7 +164,7 @@ Write a **brief data organization plan** (1–2 paragraphs) describing:
 - 📧 **Research Data Scientist:** Dr. Barbara Martinez Neda · [barbara.martinezneda@ucr.edu](mailto:barbara.martinezneda@ucr.edu)
 - 🔗 [UCR Library Data Services](https://library.ucr.edu/research-support/data-services)
 - 🎓 [GradQuant](https://gradquant.ucr.edu/) — data workshops and consultations
-- 🗓️ UCR Library offers **Data Analysis, Visualization, and Data Management workshops** — [library.ucr.edu](https://library.ucr.edu)
+- 🗓️ UCR Library often offers synchronous workshops on **Data Analysis, Visualization, and Data Management workshops** check upcoming sessions at [library.ucr.edu](https://library.ucr.edu)
 
 ---
 

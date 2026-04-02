@@ -118,12 +118,12 @@ Also refer to the **Get Help** section under each module for specific guidance o
 
 Before submitting your capstone, confirm you have completed all of the following:
 
-- [ ] Module 1: Citation Management — screenshot assignment submitted on Canvas
-- [ ] Module 2: Scholarly Communication — ORCID assignment submitted on Canvas
-- [ ] Module 3: Data Management — data organization plan submitted on Canvas
-- [ ] Module 4: Literature Review Strategies — quiz + reflection submitted on Canvas
-- [ ] Module 5: Publish & Share — quiz submitted on Canvas
-- [ ] Module 6: Graduate Academic Affairs — knowledge check quiz submitted on Canvas
+- [ ] Module 1: Citation Management — two assignments submitted on Canvas and review materials in the Resources of this website (also on Canvas)
+- [ ] Module 2: Scholarly Communication — two assignments submitted on Canvas and review materials in the Resources of this website (also on Canvas)
+- [ ] Module 3: Data Management — two assignments submitted on Canvas and review materials in the Resources of this website (also on Canvas)
+- [ ] Module 4: Literature Review Strategies — two assignments submitted on Canvas and review materials in the Resources of this website (also on Canvas)
+- [ ] Module 5: Publish & Share — quiz submitted on Canvas and review materials in the Resources of this website (also on Canvas)
+- [ ] Module 6: Graduate Academic Affairs — no assignment but review materials in the Resources of this website (also on Canvas)
 - [ ] Module 7 (Capstone): Research Plan — **submit now!**
 
 ---
@@ -153,7 +153,7 @@ Submit a **research plan (approximately 3–5 pages)** addressing the components
 
 - 🔗 Refer to the **Get Help** section under each module for specific research plan support by section
 - 📧 **Contact your subject librarians** for literature review support: [Teaching and Learning Services](https://library.ucr.edu/about/directory/staff)
-- 📧 **Digital Scholarship Librarian:** Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
+- 📧 **Digital Scholarship Librarian:** Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu)
 - 📧 **Research Data Scientist:** Dr. Barbara Martinez Neda · [barbara.martinezneda@ucr.edu](mailto:barbara.martinezneda@ucr.edu)
 - 🔗 [UCR Graduate Division Filing Resources](https://graduate.ucr.edu/filing-resources)
 
@@ -162,5 +162,4 @@ Submit a **research plan (approximately 3–5 pages)** addressing the components
 ::: {.callout-note}
 ### 🎉 Congratulations!
 
-Once your capstone is approved, you will receive your **Graduate Research Core Competencies Certificate** via Accredible. This digital credential can be shared on LinkedIn, your academic CV, and your ORCID profile.
-:::
+Once your capstone is approved, you will receive your **Graduate Research Core Competencies Certificate** via Accredible. This digital credential can be shared online, such as LinkedIn.

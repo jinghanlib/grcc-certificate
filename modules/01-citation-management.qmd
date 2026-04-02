@@ -1,6 +1,6 @@
 ---
 title: "Module 1: Citation Management"
-subtitle: "Organize your references and build your research identity"
+subtitle: "Organize your references effectively"
 ---
 
 ::: {.learning-objectives}
@@ -18,9 +18,9 @@ After completing this module, you will be able to:
 
 ## Overview
 
-This module introduces citation management and two free tools: **Zotero** and **Paperpile**. It also covers the **Biosketch**, a document required for grant applications.
+This module introduces citation management and two free tools: **Zotero** and **Paperpile**. It also covers the **Biosketch**, a document required for grant applications. Go through the summary texts on this page and review the presentations, recordings, guides, and other resources in the Resources Section to learn more.
 
-> ✅ Complete the assignment at the end of this module to earn credit toward your certificate!
+> ✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your certificate!
 
 ---
 
@@ -30,7 +30,7 @@ Manually tracking hundreds of references is error-prone and time-consuming. Cita
 
 - Capture references from databases, websites, and PDFs in one click
 - Auto-generate citations and bibliographies in any style (APA, MLA, Chicago, etc.)
-- Sync your library across devices and collaborate with lab members
+- Sync your library across devices and collaborate with team members
 - Attach and annotate PDFs alongside your references
 
 ---
@@ -39,26 +39,27 @@ Manually tracking hundreds of references is error-prone and time-consuming. Cita
 
 ### Choosing the Right Tool
 
-Both tools are free for students and cover the same core workflow. The main difference is where you write:
+Both tools are free to start and cover similar core workflow. Review the presentation slides and recordings in the Resources Section to learn more.
 
 | Feature | Zotero | Paperpile |
 |---|---|---|
-| Price | Free (6 GB storage) | Free for students |
+| Price | Free ([300 MB storage](https://www.zotero.org/storage)) | UCR Subscription using UCR email address |
 | Best for | Word, LibreOffice, standalone use | Google Docs users |
-| Browser extension | ✅ | ✅ |
+| Browser extension | ✅ All browsers| ✅ Google Chrome|
 | Collaboration | ✅ Group libraries | ✅ Shared folders |
 | Mobile app | ✅ | ✅ |
 | PDF annotation | ✅ Built-in | ✅ Built-in |
 
-### Zotero
+### [Zotero]((https://www.zotero.org/))
 
-- Download at [zotero.org](https://www.zotero.org/) — free, open source
+- Download at [zotero.org](https://www.zotero.org/) — freemium (subscription comes with more storage but the features are the same), open source
 - Install the **Zotero Connector** browser extension to save references in one click
 - Integrates with Microsoft Word, LibreOffice, and Google Docs
 - Sync your library across devices with a free Zotero account
 
-### Paperpile
+### [Paperpile](https://paperpile.com/)
 
+- UCR Subscription using UCR email address
 - Works entirely in the **Google Docs** environment — no separate app needed
 - Install the browser extension and Google Docs add-on
 - Best choice if your entire workflow lives in Google Drive
@@ -67,11 +68,11 @@ Both tools are free for students and cover the same core workflow. The main diff
 
 ## Biosketches for Grant Applications
 
-A **biosketch** is a short professional biography (up to 5 pages) required by federal funders (NIH, NSF) as part of grant applications. It summarizes your education, positions, contributions to science, and research support.
+A **biosketch** is a short professional biography required by federal funders (NIH, NSF) as part of grant applications. It summarizes your education, positions, contributions to science, and research support.
 
 - NIH and NSF each have slightly different biosketch formats
-- The UCR Library guide walks you through each section step by step
-- Creating your biosketch early — before grant deadlines — saves significant time
+- The [UCR Library guide](https://guides.lib.ucr.edu/c.php?g=962000&p=7732817) walks you through each section step by step
+- Creating your biosketch early before grant deadlines saves significant time
 
 ---
 
@@ -112,14 +113,14 @@ A **biosketch** is a short professional biography (up to 5 pages) required by fe
 ## Assignment
 
 ::: {.callout-important}
-### 📋 Assignment: Screenshot of Your Citation Management Tool
+### 📋 Assignment: Screenshots of Your Citation Management Tool
 
-Set up a citation management tool (Zotero or Paperpile) and submit a screenshot showing:
+Set up a citation management tool (Zotero or Paperpile) and submit screenshots showing:
 
 1. Your citation library with at least **3 references** imported
 2. Evidence of browser extension installation OR a citation exported to a document
 
-**Submission:** Upload your screenshot to the Canvas course platform.
+**Submission:** Upload your screenshots to the Canvas course platform.
 
 *This assignment is required for the certificate.*
 :::
@@ -128,7 +129,7 @@ Set up a citation management tool (Zotero or Paperpile) and submit a screenshot 
 
 ## Get Help
 
-- 🗓️ UCR Library offers **synchronous Zotero workshops** — check [library.ucr.edu](https://library.ucr.edu) for upcoming sessions
+- 🗓️ UCR Library offers **synchronous Zotero workshops** sometimes — check [library.ucr.edu](https://library.ucr.edu) for upcoming sessions
 - 📧 **STEM Teaching Librarian:** Mary-Michelle Moore · [marymichelle.moore@ucr.edu](mailto:marymichelle.moore@ucr.edu)
 - 📧 **LibSTEM Team:** [libstemteam@ucr.edu](mailto:libstemteam@ucr.edu)
 
