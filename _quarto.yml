@@ -5,6 +5,7 @@ project:
 website:
   title: "Graduate Research Core Competencies Certificate"
   description: "A self-paced certificate program for UC Riverside graduate students"
+  google-analytics: "G-T1QKSM81L6"
   favicon: images/certificate-thumbnail.jpg
   navbar:
     logo: images/certificate-thumbnail.jpg
