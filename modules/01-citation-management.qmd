@@ -37,23 +37,11 @@ See the [UCR Library Citation Management Guide](https://guides.lib.ucr.edu/refer
 
 ---
 
-## Presentation Slides
-
-Review the slides below for a full walkthrough of citation management tools and workflows.
-
-```{=html}
-<iframe src="https://docs.google.com/presentation/d/1RHQclRtv3HbgBarlz9zVlBQUYoh456Im/embed?start=false&loop=false&delayms=3000"
-  width="100%" height="480" frameborder="0" allowfullscreen>
-</iframe>
-```
-
----
-
 ## Zotero vs. Paperpile
 
 ### Choosing the Right Tool
 
-Both tools cover the same core workflow. Your choice mainly depends on where you write.
+Both tools cover the same core workflow. Your choice mainly depends on where you write. Review the slides below for an overview, then read on for details on each tool.
 
 | Feature | Zotero | Paperpile |
 |---|---|---|
@@ -63,6 +51,12 @@ Both tools cover the same core workflow. Your choice mainly depends on where you
 | Collaboration | ✅ Group libraries | ✅ Shared folders |
 | Mobile app | ✅ | ✅ |
 | PDF annotation | ✅ Built-in | ✅ Built-in |
+
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/1RHQclRtv3HbgBarlz9zVlBQUYoh456Im/embed?start=false&loop=false&delayms=3000"
+  width="100%" height="480" frameborder="0" allowfullscreen>
+</iframe>
+```
 
 ### Zotero
 
