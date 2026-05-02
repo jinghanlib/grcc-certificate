@@ -31,6 +31,8 @@ This module walks you through the scholarly communication landscape — from und
 
 Scholarly publishing is how research and creative work across all disciplines moves into the academic record — from the sciences and social sciences to the humanities and arts. Understanding this process helps you make informed decisions about where and how to publish your work.
 
+For a graduate student's perspective on navigating the publishing process, read: [Student Column: Graduate Student's Experience and Advice on Publishing](https://www.icahdq.org/blogpost/1523657/497573/Student-Column-Graduate-Student-s-Experience-and-Advice-on-Publishing).
+
 Review the slides below for an introduction to the scholarly publishing landscape.
 
 ```{=html}
