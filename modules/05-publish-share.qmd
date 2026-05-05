@@ -95,7 +95,6 @@ Common materials in theses and dissertations that may require permission:
 - 📊 **Figures, tables, or graphs** from journal articles or books
 - 🎵 **Music** (lyrics, scores, recordings)
 - 🎬 **Film stills** or video clips (including screenshots of YouTube videos)
-- 📜 **Lengthy quotations** from books or articles
 
 Even if something is freely available online or you own a copy of a book, this **does not** mean you have permission to reproduce it.
 
