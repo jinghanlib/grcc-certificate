@@ -7,7 +7,7 @@ subtitle: "Test your understanding of each module"
 <div class="canvas-reminder">
   <div class="canvas-reminder-body">
     <strong>These quizzes are for self-study practice only</strong>
-    <p>The questions below mirror the graded quizzes on Canvas. To earn points toward your certificate, submit your responses through the <strong>Canvas course platform</strong>. Completing quizzes here does <em>not</em> count toward your grade.</p>
+    <p>The questions below PARTIALLY reflect the graded quizzes on Canvas. To earn points toward your badge, submit your responses through the <strong>Canvas course platform.</strong> Completing quizzes here does <em>not</em> count toward your grade.</p>
   </div>
 </div>
 ```
@@ -237,7 +237,7 @@ function checkDM3() {
 </div>
 
 <div class="quiz-question">
-  <div class="question-text">1. Which type of literature review follows a rigorous, pre-registered protocol to minimize bias and produce reproducible results, often used to answer clinical or policy questions?</div>
+  <div class="question-text">1. Which type of review follows a rigorous, pre-registered protocol to minimize bias and produce reproducible results, often used to answer clinical or policy questions?</div>
   <label><input type="radio" name="lr1" value="a"> Narrative review</label><br>
   <label><input type="radio" name="lr1" value="b"> Systematic review</label><br>
   <label><input type="radio" name="lr1" value="c"> Annotated bibliography</label><br>
@@ -481,5 +481,5 @@ function checkGAA3() {
 
 ::: {.callout-tip}
 ### Note on Self-Paced Quizzes
-These interactive questions are for **self-study**. For official certification, complete all module assignments on Canvas and submit the [Capstone Research Plan](modules/07-capstone.qmd) to your instructor.
+These interactive questions are for **self-study**. For official certification, complete all module assignments on Canvas and submit the [Capstone Research Plan](modules/07-capstone.qmd) on Canvas.
 :::

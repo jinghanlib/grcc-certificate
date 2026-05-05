@@ -20,7 +20,7 @@ After completing this module, you will be able to:
 
 This module introduces citation management and two tools: **Zotero** and **Paperpile**. It also covers the **Biosketch**, a document required for federal grant applications.
 
-> ✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your certificate.
+> ✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your badge.
 
 ---
 
@@ -127,7 +127,7 @@ Set up a citation management tool (Zotero or Paperpile) and submit screenshots s
 
 **Submission:** Upload your screenshots to the Canvas course platform.
 
-*This assignment is required for the certificate.*
+*This assignment is required for the badge.*
 :::
 
 ---

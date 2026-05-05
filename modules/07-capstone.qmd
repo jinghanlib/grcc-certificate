@@ -1,6 +1,6 @@
 ---
 title: "Module 7 (Capstone): Research Plan"
-subtitle: "Bring it all together — your pathway to the certificate"
+subtitle: "Bring it all together — your pathway to the badge"
 ---
 
 ::: {.learning-objectives}
@@ -11,7 +11,7 @@ After completing this module, you will be able to:
 - Explain what a research plan is and why every researcher needs one
 - Identify the key components of a graduate research plan
 - Draft a comprehensive research plan that integrates competencies from all modules
-- Submit your capstone to earn the Graduate Research Core Competencies Certificate
+- Submit your capstone to earn the UCR Library Graduate Research Core Competencies Badge
 :::
 
 ---
@@ -19,7 +19,7 @@ After completing this module, you will be able to:
 ::: {.callout-note}
 ### 🎓 This is the Capstone Module
 
-Completing and submitting this Research Plan is the **final step** to earning your Graduate Research Core Competencies Certificate. Make sure you have completed all prior modules before submitting.
+Completing and submitting this Research Plan is the **final step** to earning your UCR Library Graduate Research Core Competencies Badge. Make sure you have completed all prior modules before submitting.
 :::
 
 ---
@@ -107,7 +107,7 @@ Graduate Division has recordings to help with your writing. Access these with yo
 
 ---
 
-## Certificate Checklist
+## Badge Checklist
 
 Before submitting your capstone, confirm you have completed all of the following:
 
@@ -135,7 +135,7 @@ Submit a **research plan (approximately 3–5 pages)** addressing the components
 - Publication and dissemination plan (Module 5)
 - Awareness of formatting and graduation requirements (Module 6)
 
-**Submit your research plan to your instructor on Canvas to receive your official certificate via Accredible.**
+**Submit your research plan to your instructor on Canvas to receive your official microcredential badge via Accredible.**
 
 *Completion of all prior modules and assignments is required before submitting the capstone.*
 :::
@@ -155,5 +155,5 @@ Submit a **research plan (approximately 3–5 pages)** addressing the components
 ::: {.callout-note}
 ### 🎉 Congratulations!
 
-Once your capstone is approved, you will receive your **Graduate Research Core Competencies Certificate** via Accredible. This digital credential can be shared online, such as LinkedIn.
+Once your capstone is approved, you will receive your **UCR Library Graduate Research Core Competencies Badge** via Accredible. This digital credential can be shared online, such as LinkedIn.
 :::

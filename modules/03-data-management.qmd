@@ -21,7 +21,7 @@ After completing this module, you will be able to:
 
 This module introduces **data management plans**, an integral component of your research, and **data publishing**. A DMP is required for IRB applications and grant applications. Publishing your data in an open access repository increases your publication count and supports data reuse and research validation.
 
-> ✅ Complete the assignment at the end of this module and associated quiz on Canvas to earn credit toward your certificate!
+> ✅ Complete the assignment at the end of this module and associated quiz on Canvas to earn credit toward your badge!
 
 ---
 
@@ -147,7 +147,7 @@ Ensure your strategy is logical enough for a collaborator to navigate without yo
 
 **Submission:** Submit your plan to the Canvas course platform.
 
-*This assignment is required for the certificate.*
+*This assignment is required for the badge.*
 :::
 
 ---

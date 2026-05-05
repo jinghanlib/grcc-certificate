@@ -21,7 +21,7 @@ After completing this module, you will be able to:
 
 This module covers **copyright, licenses, fair use**, and how to share and publish your thesis and dissertation with a publisher. It also introduces ProQuest submission, which is a graduation requirement covered in depth in Module 6.
 
-> ✅ Complete the quiz assignment on Canvas to earn credit toward your certificate!
+> ✅ Complete the quiz assignment on Canvas to earn credit toward your badge!
 
 ---
 
@@ -185,9 +185,9 @@ Submitting your thesis or dissertation to ProQuest is a **graduation requirement
 ::: {.callout-important}
 ### 📋 Assignment: Publish and Share Your Thesis and Dissertation Quiz
 
-Complete the quiz on Canvas to earn credit toward your certificate.
+Complete the quiz on Canvas to earn credit toward your badge.
 
-*This assignment is required for the certificate.*
+*This assignment is required for the badge.*
 :::
 
 ---

@@ -23,7 +23,7 @@ After completing this module, you will be able to:
 
 This module walks you through the scholarly communication landscape — from understanding how research gets published, to building your online academic presence, to making your work openly accessible. **ORCID is the one thing you must remember after taking this module!**
 
-> ✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your certificate!
+> ✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your badge!
 
 ---
 
@@ -180,7 +180,7 @@ Review the slides and watch the recording below to learn how to navigate open ac
 2. Add at least **2 works** to your ORCID record (institutional affiliation, educational experience, publications, presentations, preprints, services, awards, peer review or other works)
 3. Submit your **ORCID iD URL** (e.g., `https://orcid.org/0000-0000-0000-0000`) to the Canvas course platform
 
-*This assignment is required for the certificate.*
+*This assignment is required for the badge.*
 :::
 
 ---

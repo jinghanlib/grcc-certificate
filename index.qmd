@@ -5,19 +5,19 @@ toc: false
 
 ::: {.hero-section style="background-image: url('images/orbach-library.jpg')"}
 ::: {.hero-badge}
-UC Riverside Library · Self-Paced Certificate
+UC Riverside Library · Self-Paced Badge
 :::
 
-# Graduate Research Core Competencies Certificate
+# UCR Library Graduate Research Core Competencies Badge
 
 Practical skills for every stage of your research journey — citation management, scholarly communication, data management, literature review strategies, publishing, and more.
 
-**Complete all modules at your own pace to earn your certificate.**
+**Complete all modules at your own pace to earn your badge.**
 :::
 
 ## What You'll Learn
 
-The **Graduate Research Core Competencies Certificate** is designed to support graduate students at all stages of their research journey by building practical, transferable skills essential to scholarly work.
+The **UCR Library Graduate Research Core Competencies Badge** is designed to support graduate students at all stages of their research journey by building practical, transferable skills essential to scholarly work.
 
 Participants develop strategies for:
 
@@ -28,7 +28,7 @@ Participants develop strategies for:
 - **Publishing & sharing** theses, dissertations, and research articles
 - **Graduation requirements** — formatting, ProQuest, and Graduate Division workflows
 
-> The modules can be completed **in any order**, at your own pace. A certificate will be awarded upon completion of all modules' graded assignments.
+> The modules can be completed **in any order**, at your own pace. A badge will be awarded upon completion of all modules' graded assignments.
 
 ---
 
@@ -36,7 +36,7 @@ Participants develop strategies for:
 <div class="canvas-reminder">
   <div class="canvas-reminder-body">
     <strong>Submit Assignments on Canvas to Earn Points</strong>
-    <p>The knowledge checks on this website mirror the quizzes on Canvas and are for self-study practice. To receive credit toward your certificate, complete and submit all assignments through the <strong>Canvas course platform.</strong> Completing quizzes here does <em>not</em> count toward your grade.</p>
+    <p>The knowledge checks on this website mirror the quizzes on Canvas and are for self-study practice. To receive credit toward your badge, complete and submit all assignments through the <strong>Canvas course platform.</strong> Completing quizzes here does <em>not</em> count toward your grade.</p>
   </div>
 </div>
 ```
@@ -51,13 +51,13 @@ Participants develop strategies for:
 <a class="module-card" href="modules/04-literature-review.qmd"><div class="module-number">Module 4</div><h3>Literature Review Strategies</h3><p>Design effective search strategies, understand types of reviews, and use UC Library resources.</p><div class="module-footer"><span class="module-tag">Database Search</span><span class="module-tag">Systematic Review</span><span class="module-tag">Annotated Bibliography</span></div><div class="module-cta">Start Module →</div></a>
 <a class="module-card" href="modules/05-publish-share.qmd"><div class="module-number">Module 5</div><h3>Publish & Share Your Research</h3><p>Navigate copyright, fair use, open access options, and the path from dissertation to publication.</p><div class="module-footer"><span class="module-tag">Copyright</span><span class="module-tag">Fair Use</span><span class="module-tag">Open Access</span></div><div class="module-cta">Start Module →</div></a>
 <a class="module-card" href="modules/06-graduate-academic-affairs.qmd"><div class="module-number">Module 6</div><h3>Graduate Academic Affairs</h3><p>Understand UCR formatting requirements, the ProQuest submission process, and graduation timelines.</p><div class="module-footer"><span class="module-tag">ProQuest</span><span class="module-tag">Formatting</span><span class="module-tag">Graduation</span></div><div class="module-cta">Start Module →</div></a>
-<a class="module-card" href="modules/07-capstone.qmd"><div class="module-number">Module 7 · Capstone</div><h3>Research Plan</h3><p>Integrate all competencies into a comprehensive research plan — your capstone for the certificate.</p><div class="module-footer"><span class="module-tag">Capstone</span><span class="module-tag">Research Plan</span><span class="module-tag">🎓 Certificate</span></div><div class="module-cta">Start Module →</div></a>
+<a class="module-card" href="modules/07-capstone.qmd"><div class="module-number">Module 7 · Capstone</div><h3>Research Plan</h3><p>Integrate all competencies into a comprehensive research plan — your capstone for the badge.</p><div class="module-footer"><span class="module-tag">Capstone</span><span class="module-tag">Research Plan</span><span class="module-tag">🎓 Badge</span></div><div class="module-cta">Start Module →</div></a>
 </div>
 ```
 
 ---
 
-## How to Earn Your Certificate
+## How to Earn Your Badge
 
 :::: {.columns}
 
@@ -79,7 +79,7 @@ Participants develop strategies for:
 
 ::: {.column width="30%"}
 ### 🎓 Step 3
-**Submit the Capstone Research Plan on Canvas** to receive your official certificate via Accredible.
+**Submit the Capstone Research Plan on Canvas** to receive your official badge via Accredible.
 :::
 
 ::::

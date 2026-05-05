@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Graduate Research Core Competencies Certificate"
-  description: "A self-paced certificate program for UC Riverside graduate students"
+  title: "UCR Library Graduate Research Core Competencies Badge"
+  description: "A self-paced microcredential program for UC Riverside graduate students"
   google-analytics: "G-T1QKSM81L6"
   favicon: images/certificate-thumbnail.jpg
   navbar:
     logo: images/certificate-thumbnail.jpg
-    logo-alt: "GRCC Certificate"
+    logo-alt: "GRCC Badge"
     title: false
     left:
       - text: "Home"
@@ -42,7 +42,7 @@ website:
   sidebar: false
 
   page-footer:
-    left: "© UC Riverside Library · Graduate Research Core Competencies Certificate"
+    left: "© UC Riverside Library · UCR Library Graduate Research Core Competencies Badge"
     right:
       - icon: github
         href: https://github.com/jinghanlib/grcc-certificate

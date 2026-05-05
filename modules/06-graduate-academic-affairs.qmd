@@ -110,7 +110,7 @@ Always read the ProQuest publishing agreement before submitting. For questions, 
 
 Complete the knowledge check quiz in the [Knowledge Checks](../knowledge-checks.qmd) page. The quiz is also available on Canvas for credit.
 
-*This assignment is required for the certificate.*
+*This assignment is required for the badge.*
 :::
 
 ---

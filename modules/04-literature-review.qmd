@@ -21,7 +21,7 @@ After completing this module, you will be able to:
 
 This module introduces the different types of reviews you may encounter in academic research. It guides you through designing an effective literature review search strategy and highlights UC Riverside Library resources that support you throughout the process.
 
-> ✅ Complete the assignment at the end of this module and the associated quiz on Canvas to earn credit toward your certificate!
+> ✅ Complete the assignment at the end of this module and the associated quiz on Canvas to earn credit toward your badge!
 
 ---
 
@@ -181,7 +181,7 @@ Write a **short reflection (1 page)** explaining:
 
 **Submission:** Submit your reflection to the Canvas course platform.
 
-*This assignment is required for the certificate.*
+*This assignment is required for the badge.*
 :::
 
 ---
