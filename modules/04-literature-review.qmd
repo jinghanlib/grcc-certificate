@@ -48,7 +48,6 @@ Systematically and transparently collects and categorizes existing evidence on a
 
 - Seeks to identify research gaps and opportunities for evidence synthesis.
 - May critically evaluate existing evidence, but does not attempt to synthesize the results in the way a systematic review would.
-- May take longer than a systematic review.
 
 ### Umbrella Review
 
