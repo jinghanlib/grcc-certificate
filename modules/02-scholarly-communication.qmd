@@ -119,7 +119,7 @@ Open access (OA) means making your research freely available online to anyone, a
 
 ### UC Open Access Policy
 
-The Academic Senate of the University of California adopted an Open Access Policy ensuring that future research articles authored by all UC employees would be made available to the public at no charge once authors deposit them into [eScholarship](https://escholarship.org), UC's open access repository.
+The University of California adopted an Open Access Policy ensuring that future research articles authored by all UC employees would be made available to the public at no charge once authors deposit them into [eScholarship](https://escholarship.org), UC's open access repository.
 
 ![UC Open Access Policy Coverage](../images/image-4.png){fig-alt="Diagram showing UC open access policy coverage."}
 
