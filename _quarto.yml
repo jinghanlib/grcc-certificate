@@ -5,7 +5,7 @@ project:
 website:
   title: "UCR Library Graduate Research Core Competencies Badge"
   description: "A self-paced microcredential program for UC Riverside graduate students"
-  favicon: images/grcc-badge.png
+  favicon: images/grcc-badge-favicon.png
   navbar:
     logo: images/grcc-badge.png
     logo-alt: "GRCC Badge"
